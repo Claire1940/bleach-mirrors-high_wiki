@@ -1,4 +1,15 @@
 {
+  "seo": {
+    "home": {
+      "title": "BLEACH Mirrors High - Personagens de Bleach, Zanpakuto, Arcos e Lore",
+      "description": "Explore os personagens de Bleach, arcos de história, Zanpakuto, Soul Reapers, Hollows, batalhas e a lore da lendária série de mangá e anime de Tite Kubo.",
+      "keywords": "Bleach, Ichigo, Soul Reaper, Zanpakuto, personagens, arcos, Hollows, anime, mangá",
+      "ogTitle": "BLEACH Mirrors High - Personagens de Bleach, Zanpakuto, Arcos e Lore",
+      "ogDescription": "Explore os personagens de Bleach, arcos de história, Zanpakuto, Soul Reapers, Hollows, batalhas e a lore da lendária série de mangá e anime de Tite Kubo.",
+      "twitterTitle": "BLEACH Mirrors High - Personagens de Bleach, Zanpakuto, Arcos e Lore",
+      "twitterDescription": "Explore os personagens de Bleach, arcos de história, Zanpakuto, Soul Reapers, Hollows, batalhas e a lore da lendária série de mangá e anime de Tite Kubo."
+    }
+  },
   "nav": {
     "guide": "Guia",
     "characters": "Personagens",
@@ -7,5 +18,751 @@
     "games": "Jogos",
     "codes": "Códigos",
     "movies": "Filmes"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar na Steam",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar para o Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Ler Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "Anime Shonen Sobrenatural Lendário",
+    "title": "Wiki de BLEACH Mirrors High",
+    "description": "Siga Ichigo Kurosaki enquanto ele se torna um Soul Reaper, domina sua Zanpakuto, batalha contra Hollows e protege os mundos dos vivos e dos mortos.",
+    "getFreeCodesCTA": "Explorar Guias",
+    "playOnSteamCTA": "Site Oficial do Anime",
+    "stats": {
+      "stat1": {
+        "value": "74",
+        "label": "Volumes do Mangá"
+      },
+      "stat2": {
+        "value": "686",
+        "label": "Capítulos do Mangá"
+      },
+      "stat3": {
+        "value": "366",
+        "label": "Episódios Originais do Anime"
+      },
+      "stat4": {
+        "value": "13",
+        "label": "Esquadrões de Guarda da Corte"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Central de Anime e Mangá de Bleach",
+    "description": "Explore o universo completo de Bleach por Tite Kubo — personagens, Zanpakuto, arcos de história, facções, habilidades, batalhas icônicas, guias de episódios e o mangá original reunidos em um só lugar."
+  },
+  "tools": {
+    "title": "BLEACH Mirrors High",
+    "titleHighlight": "Guias",
+    "subtitle": "Tudo o que você precisa para explorar os personagens de Bleach, Zanpakuto, arcos de história, facções, habilidades e batalhas.",
+    "cards": [
+      {
+        "icon": "Users",
+        "title": "Personagens de Bleach",
+        "description": "Ichigo, Soul Reapers, Arrancar, Quincy e mais"
+      },
+      {
+        "icon": "Sword",
+        "title": "Zanpakuto de Bleach",
+        "description": "Shikai, Bankai, portadores e habilidades"
+      },
+      {
+        "icon": "Route",
+        "title": "Arcos de Bleach",
+        "description": "Linha do tempo completa do Soul Reaper Substituto à Guerra Sangrenta"
+      },
+      {
+        "icon": "Flag",
+        "title": "Facções de Bleach",
+        "description": "Gotei 13, Espada, Visored, Quincy, Wandenreich"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Habilidades de Bleach",
+        "description": "Kido, Cero, Hierro, Fullbring e poderes Quincy"
+      },
+      {
+        "icon": "Swords",
+        "title": "Batalhas de Bleach",
+        "description": "Ichigo vs Aizen, Ulquiorra, Yhwach e mais"
+      },
+      {
+        "icon": "Clapperboard",
+        "title": "Episódios de Bleach",
+        "description": "Guia de episódios canônicos, fillers e ordem para assistir"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Mangá de Bleach",
+        "description": "Volumes, capítulos e mudanças entre anime e mangá"
+      }
+    ]
+  },
+  "modules": {
+    "bleachCharacters": {
+      "title": "Personagens de BLEACH Mirrors High",
+      "eyebrow": "Guia de Personagens",
+      "intro": "Bleach acompanha um grande elenco de guerreiros cujas lealdades, habilidades e histórias pessoais influenciam o equilíbrio do mundo espiritual. Estes cartões de personagens apresentam os principais heróis, capitães, aliados e antagonistas.",
+      "items": [
+        {
+          "name": "Ichigo Kurosaki",
+          "role": "Soul Reaper Substituto",
+          "affiliation": "Aliados da Cidade de Karakura",
+          "description": "Um humano que ganha poderes de Soul Reaper de Rukia Kuchiki. Ele entra repetidamente em conflitos espirituais para proteger sua família, amigos e tanto o Mundo Humano quanto a Soul Society."
+        },
+        {
+          "name": "Rukia Kuchiki",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13, Esquadrão 13",
+          "description": "A Soul Reaper que transfere seus poderes para Ichigo no início da história. Mais tarde, ela se torna uma oficial poderosa e, eventualmente, a capitã do Esquadrão 13."
+        },
+        {
+          "name": "Renji Abarai",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13, Esquadrão 6",
+          "description": "O tenente do Esquadrão 6 e amigo de infância de Rukia. Renji começa como oponente de Ichigo, mas se torna um de seus aliados mais confiáveis."
+        },
+        {
+          "name": "Byakuya Kuchiki",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13, Esquadrão 6",
+          "description": "O capitão do Esquadrão 6 e chefe do nobre Clã Kuchiki. Sua devoção estrita às leis da Soul Society muda gradualmente através de seus encontros com Ichigo e Rukia."
+        },
+        {
+          "name": "Toshiro Hitsugaya",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13, Esquadrão 10",
+          "description": "Um jovem prodígio que atua como capitão do Esquadrão 10. Ele comanda Hyorinmaru, uma das mais poderosas Zanpakuto do tipo gelo."
+        },
+        {
+          "name": "Kenpachi Zaraki",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13, Esquadrão 11",
+          "description": "O capitão do Esquadrão 11, amante de batalhas, e detentor do título de Kenpachi. Ele confia em sua imensa pressão espiritual, força física e no desejo instintivo de lutar contra oponentes poderosos."
+        },
+        {
+          "name": "Sosuke Aizen",
+          "role": "Soul Reaper",
+          "affiliation": "Ex-Gotei 13, Exército Arrancar",
+          "description": "O ex-capitão do Esquadrão 5 que manipula secretamente os eventos em toda a Soul Society. Ele busca transcender os limites que separam Soul Reapers, Hollows e o Soul King."
+        },
+        {
+          "name": "Ulquiorra Cifer",
+          "role": "Arrancar",
+          "affiliation": "Espada",
+          "description": "O Quarto Espada no exército de Aizen e um dos oponentes mais perigosos de Ichigo. Sua perspectiva calma e sem emoções é desafiada através de suas interações com Orihime."
+        },
+        {
+          "name": "Gin Ichimaru",
+          "role": "Soul Reaper",
+          "affiliation": "Ex-Gotei 13, Exército de Aizen",
+          "description": "O ex-capitão do Esquadrão 3 que segue Aizen enquanto esconde suas verdadeiras intenções. Seu sorriso constante e comportamento enganoso tornam suas lealdades difíceis de entender."
+        },
+        {
+          "name": "Yoruichi Shihoin",
+          "role": "Soul Reaper",
+          "affiliation": "Ex-Esquadrão 2, Aliados da Loja Urahara",
+          "description": "A ex-capitã do Esquadrão 2 e ex-comandante do Onmitsukido. Ela é mestre em combate corpo a corpo, furtividade e movimento em alta velocidade."
+        },
+        {
+          "name": "Uryu Ishida",
+          "role": "Quincy",
+          "affiliation": "Aliados da Cidade de Karakura, Família Ishida",
+          "description": "Um habilidoso arqueiro Quincy e um dos aliados mais próximos de Ichigo. Sua herança Quincy o coloca no centro do conflito final com o Wandenreich."
+        },
+        {
+          "name": "Orihime Inoue",
+          "role": "Humana",
+          "affiliation": "Aliados da Cidade de Karakura",
+          "description": "Colega de classe de Ichigo e portadora das Shun Shun Rikka. Suas habilidades podem rejeitar eventos prejudiciais, permitindo-lhe curar ferimentos, criar barreiras e proteger seus companheiros."
+        }
+      ]
+    },
+    "bleachZanpakuto": {
+      "title": "BLEACH Mirrors High Zanpakuto",
+      "eyebrow": "Guia de Armas",
+      "intro": "Uma Zanpakuto reflete a alma de seu portador e possui seu próprio nome e espírito. Ao se comunicar com esse espírito, um Soul Reaper pode liberar a Shikai e, eventualmente, a muito mais poderosa Bankai.",
+      "items": [
+        {
+          "name": "Zangetsu",
+          "wielder": "Ichigo Kurosaki",
+          "shikai": "Uma lâmina superdimensionada permanentemente liberada que canaliza o poder espiritual de Ichigo em ataques como o Getsuga Tensho.",
+          "bankai": "Sua Bankai é a Tensa Zangetsu, que comprime o poder de Ichigo em uma lâmina menor e aumenta muito sua velocidade e desempenho em combate."
+        },
+        {
+          "name": "Sode no Shirayuki",
+          "wielder": "Rukia Kuchiki",
+          "shikai": "Usa uma série de danças para congelar alvos, criar caminhos de gelo e diminuir a temperatura ao redor da lâmina.",
+          "bankai": "Hakka no Togame reduz drasticamente a temperatura corporal de Rukia e congela tudo dentro de sua área de efeito."
+        },
+        {
+          "name": "Zabimaru",
+          "wielder": "Renji Abarai",
+          "shikai": "Transforma-se em uma lâmina segmentada que pode se estender como um chicote e atingir inimigos à distância.",
+          "bankai": "So-oh Zabimaru cria componentes esqueléticos massivos e semelhantes a babuínos que desferem ataques físicos e espirituais poderosos."
+        },
+        {
+          "name": "Senbonzakura",
+          "wielder": "Byakuya Kuchiki",
+          "shikai": "Separa sua lâmina em inúmeras lâminas minúsculas que se assemelham a pétalas de flor de cerejeira flutuando.",
+          "bankai": "Senbonzakura Kageyoshi invoca lâminas enormes que se dividem em milhões de fragmentos controláveis e podem formar vários modos de ataque especializados."
+        },
+        {
+          "name": "Kyoka Suigetsu",
+          "wielder": "Sosuke Aizen",
+          "shikai": "Coloca qualquer pessoa que presencie sua liberação sob Hipnose Completa, permitindo que Aizen manipule todos os cinco sentidos.",
+          "bankai": "Desconhecida"
+        },
+        {
+          "name": "Hyorinmaru",
+          "wielder": "Toshiro Hitsugaya",
+          "shikai": "Cria e controla grandes quantidades de gelo e água, frequentemente assumindo a forma de um dragão de gelo.",
+          "bankai": "Daiguren Hyorinmaru forma asas, garras e uma cauda de gelo. Seu estado maduro pode congelar tanto a matéria física quanto as funções dos objetos afetados."
+        },
+        {
+          "name": "Katen Kyokotsu",
+          "wielder": "Shunsui Kyoraku",
+          "shikai": "Transforma brincadeiras infantis em regras de combate reais que afetam todos os participantes dentro de seu alcance.",
+          "bankai": "Katen Kyokotsu: Karamatsu Shinju prende oponentes próximos em uma tragédia de quatro atos envolvendo ferimentos compartilhados, doença, afogamento e um ataque final de decapitação."
+        },
+        {
+          "name": "Ryujin Jakka",
+          "wielder": "Genryusai Yamamoto",
+          "shikai": "Produz chamas avassaladoras capazes de queimar grandes áreas e reduzir alvos a cinzas.",
+          "bankai": "Zanka no Tachi concentra suas chamas na lâmina e concede quatro habilidades direcionais envolvendo calor extremo, contato destrutivo, defesa e os cadáveres de vítimas anteriores."
+        },
+        {
+          "name": "Minazuki",
+          "wielder": "Retsu Unohana",
+          "shikai": "Transforma-se em uma grande criatura voadora que transporta aliados feridos e os cura dentro de seu corpo.",
+          "bankai": "Minazuki libera um líquido semelhante a sangue ao redor de Unohana e sua espada durante o combate de curto alcance. Seus mecanismos exatos não são totalmente explicados."
+        },
+        {
+          "name": "Nozarashi",
+          "wielder": "Kenpachi Zaraki",
+          "shikai": "Transforma-se em uma enorme lâmina semelhante a um machado com poder de corte suficiente para destruir objetos enormes e oponentes fortemente armados.",
+          "bankai": "Transforma Kenpachi em um berserker de pele vermelha com força e poder de corte drasticamente aumentados, embora ele inicialmente tenha dificuldades para controlá-lo."
+        },
+        {
+          "name": "Sogyo no Kotowari",
+          "wielder": "Jushiro Ukitake",
+          "shikai": "Divide-se em duas lâminas conectadas por uma corda e talismãs, permitindo que Ukitake absorva e redirecione ataques de energia.",
+          "bankai": "Desconhecida"
+        }
+      ]
+    },
+    "bleachArcs": {
+      "title": "BLEACH Mirrors High Arcs",
+      "eyebrow": "Linha do Tempo da História",
+      "intro": "A história de Bleach se expande de incidentes sobrenaturais na Cidade de Karakura para guerras envolvendo a Soul Society, o Hueco Mundo e o império Quincy. Esta linha do tempo apresenta os principais arcos canônicos na ordem narrativa.",
+      "steps": [
+        {
+          "title": "Arco do Soul Reaper Substituto",
+          "description": "Ichigo Kurosaki recebe poderes de Soul Reaper de Rukia Kuchiki e começa a proteger a Cidade de Karakura contra os Hollows. Ele conhece aliados com percepção espiritual, incluindo Orihime Inoue, Yasutora Sado e o arqueiro Quincy Uryu Ishida."
+        },
+        {
+          "title": "Arco da Soul Society",
+          "description": "Rukia é presa e condenada à execução por transferir seus poderes para um humano. Ichigo e seus amigos invadem a Soul Society, lutam contra membros da Gotei 13 e descobrem a conspiração oculta de Sosuke Aizen."
+        },
+        {
+          "title": "Arco Arrancar: A Chegada",
+          "description": "Aizen cria um exército de Arrancar usando o Hogyoku e os envia para atacar o Mundo Humano. Ichigo luta para controlar seu Hollow interior enquanto treina com os Visored."
+        },
+        {
+          "title": "Arco do Hueco Mundo",
+          "description": "Orihime é levada para a fortaleza de Aizen no Hueco Mundo, levando Ichigo, Uryu e Chad a iniciarem uma missão de resgate. Eles lutam contra vários Arrancar e Espada enquanto avançam por Las Noches."
+        },
+        {
+          "title": "Arco Volte a Girar o Pêndulo",
+          "description": "Um flashback revela os eventos que ocorreram mais de um século antes na Soul Society. Ele explica como os experimentos de Hollowficação de Aizen transformaram vários capitães e tenentes nos Visored."
+        },
+        {
+          "title": "Arco da Falsa Cidade de Karakura",
+          "description": "A Gotei 13 confronta Aizen, Gin, Tosen e os Espada restantes em uma réplica da Cidade de Karakura. Ichigo finalmente passa por um treinamento intenso para obter o poder necessário para sua batalha decisiva contra Aizen."
+        },
+        {
+          "title": "Arco do Agente Perdido",
+          "description": "Após perder suas habilidades de Soul Reaper, Ichigo conhece Kugo Ginjo e a organização Fullbringer Xcution. A promessa deles de restaurar seus poderes se transforma em um conflito envolvendo habilidades Fullbring roubadas e o passado de Ginjo."
+        },
+        {
+          "title": "Arco da Guerra Sangrenta dos Mil Anos",
+          "description": "Yhwach e o Wandenreich invadem a Soul Society, roubam a Bankai e declaram guerra aos Soul Reapers. Ichigo descobre a verdade sobre sua herança à medida que o conflito se expande para o Palácio do Soul King e ameaça a estrutura de todos os mundos."
+        }
+      ]
+    },
+    "bleachFactions": {
+      "title": "Facções de BLEACH Mirrors High",
+      "eyebrow": "Guia de Facções",
+      "intro": "Os conflitos de Bleach são impulsionados por organizações com ideias concorrentes sobre justiça, sobrevivência, vingança e o equilíbrio das almas. Algumas defendem a ordem espiritual estabelecida, enquanto outras buscam destruí-la ou substituí-la.",
+      "items": [
+        {
+          "name": "Gotei 13",
+          "leader": "Genryusai Yamamoto; mais tarde Shunsui Kyoraku",
+          "description": "As treze divisões militares responsáveis por proteger a Soul Society e manter o equilíbrio entre os mundos. Cada esquadrão é comandado por um capitão e geralmente se especializa em um estilo particular de dever ou combate."
+        },
+        {
+          "name": "Espada",
+          "leader": "Sosuke Aizen",
+          "description": "Os dez Arrancar de maior patente no exército de Aizen, numerados de acordo com seu poder espiritual. Eles governam sobre Arrancar inferiores e lutam para apoiar o plano de Aizen de derrubar a ordem existente."
+        },
+        {
+          "name": "Visored",
+          "leader": "Shinji Hirako (de facto)",
+          "description": "Antigos capitães e tenentes Soul Reaper que ganharam poderes de Hollow através dos experimentos de Aizen. Eles inicialmente vivem no exílio, mas depois ajudam Ichigo a controlar seu Hollow interior e se opõem a Aizen."
+        },
+        {
+          "name": "Quincy",
+          "leader": "Yhwach",
+          "description": "Humanos espiritualmente conscientes que destroem Hollows usando armas formadas a partir de partículas espirituais reunidas. Seu método de apagar completamente os Hollows ameaça o equilíbrio das almas e historicamente os coloca em conflito com os Soul Reapers."
+        },
+        {
+          "name": "Wandenreich",
+          "leader": "Yhwach",
+          "description": "Um império Quincy oculto que sobrevive nas sombras da Soul Society e se prepara para uma campanha de vingança de mil anos. Seus Sternritter invadem a Soul Society, roubam a Bankai e tentam remodelar os mundos sob o domínio de Yhwach."
+        },
+        {
+          "name": "Xcution",
+          "leader": "Kugo Ginjo",
+          "description": "Uma organização de Fullbringers who claim they want to remove their powers and become ordinary humans. Ginjo, em vez disso, usa o grupo para manipular Ichigo e roubar o poder de Soul Reaper aprimorado por Fullbring que ele desenvolve."
+        },
+        {
+          "name": "Fullbringers",
+          "leader": "Vários",
+          "description": "Humanos capazes de manipular as almas contidas em objetos físicos. Seus poderes geralmente se desenvolvem após suas mães sobreviverem a ataques de Hollow, mas os Fullbringers não pertencem a uma única organização unificada nem compartilham um único objetivo."
+        }
+      ]
+    },
+    "bleachAbilities": {
+      "title": "Habilidades de BLEACH Mirrors High",
+      "eyebrow": "Sistemas de Combate",
+      "intro": "Bleach apresenta vários sistemas de poder interconectados baseados em energia espiritual, raça, treinamento e armas pessoais. Essas habilidades variam de feitiços formais de Soul Reaper a ataques instintivos de Hollow e defesas especializadas de Quincy.",
+      "items": [
+        {
+          "name": "Kido",
+          "type": "Feitiço de Soul Reaper",
+          "description": "Kido é o sistema de feitiços espirituais dos Soul Reapers, ativado por meio de encantamentos e técnicas numeradas. Os feitiços de Hado focam na destruição, enquanto os feitiços de Bakudo restringem, defendem, rastreiam ou selam alvos; mestres como Tessai, Hachigen e Aizen podem usar Kido avançado com encantamentos reduzidos ou omitidos."
+        },
+        {
+          "name": "Cero",
+          "type": "Poder de Hollow",
+          "description": "Cero é uma rajada concentrada de energia espiritual comumente disparada por Menos Hollows e Arrancar. Seu poder, velocidade, cor e ponto de disparo variam de acordo com o usuário, com variantes mais fortes incluindo Gran Rey Cero e Cero Oscuras."
+        },
+        {
+          "name": "Hierro",
+          "type": "Defesa de Arrancar",
+          "description": "Hierro endurece a pele de um Arrancar ao concentrar energia espiritual por todo o corpo. Sua durabilidade difere entre os indivíduos, com lutadores como Nnoitra Gilga possuindo um Hierro excepcionalmente forte."
+        },
+        {
+          "name": "Hollowfication",
+          "type": "Poder de Hollow",
+          "description": "A Hollowficação concede características e poder de Hollow a um Soul Reaper, frequentemente produzindo uma máscara e um grande aumento na velocidade, força e pressão espiritual. Ichigo e os Visored usam formas controladas deste poder, embora a perda de controle possa desencadear uma transformação Hollow mais completa."
+        },
+        {
+          "name": "Bankai",
+          "type": "Liberação de Zanpakuto",
+          "description": "Bankai é a segunda e última liberação da Zanpakuto de um Soul Reaper, normalmente exigindo anos de treinamento para ser alcançada e dominada. Cada Bankai reflete o espírito de seu usuário e pode transformar drasticamente a arma, os arredores ou as habilidades de combate do portador."
+        },
+        {
+          "name": "Getsuga Tensho",
+          "type": "Técnica de Zanpakuto",
+          "description": "Getsuga Tensho é a técnica de assinatura de Ichigo Kurosaki, liberando energia espiritual condensada de Zangetsu como um poderoso ataque em forma de crescente. Ichigo pode usar diferentes formas dela através de sua Shikai, Bankai, estado aprimorado por Hollow e, mais tarde, poderes de lâmina dupla."
+        },
+        {
+          "name": "Shunpo",
+          "type": "Movimento de Soul Reaper",
+          "description": "Shunpo é uma técnica de movimento em alta velocidade de Soul Reaper que permite ao usuário cruzar distâncias mais rápido do que a visão comum pode acompanhar. Yoruichi Shihoin, Soi Fon e Byakuya Kuchiki estão entre seus praticantes mais realizados."
+        },
+        {
+          "name": "Sonido",
+          "type": "Movimento de Arrancar",
+          "description": "Sonido é o equivalente do Arrancar para movimento em alta velocidade e frequentemente produz um som distinto quando usado. Arrancar habilidosos podem usá-lo para desviar de ataques, criar pós-imagens e se reposicionar antes que um oponente possa reagir."
+        },
+        {
+          "name": "Hirenkyaku and Blut Vene",
+          "type": "Técnica Quincy",
+          "description": "O Hirenkyaku permite que os Quincy viajem rapidamente surfando em correntes de partículas espirituais sob seus pés. O Blut Vene direciona energia espiritual através dos vasos sanguíneos do usuário para aumentar muito a defesa, enquanto sua contraparte ofensiva, o Blut Arterie, fortalece os ataques."
+        },
+        {
+          "name": "Fullbring",
+          "type": "Habilidade Humana",
+          "description": "O Fullbring permite que humanos espiritualmente conscientes manipulem a alma contida na matéria física. Cada Fullbringer desenvolve uma habilidade pessoal conectada a um objeto emocionalmente significativo, como o distintivo de Soul Reaper Substituto de Ginjo ou o marcador de página de Tsukishima."
+        }
+      ]
+    },
+    "bleachBattles": {
+      "title": "Batalhas de BLEACH Mirrors High",
+      "eyebrow": "Lutas Icônicas",
+      "intro": "As batalhas de Bleach combinam esgrima, transformações evolutivas, habilidades táticas e conflitos pessoais. Essas grandes lutas introduzem técnicas definidoras, resolvem rivalidades de longa data e determinam o resultado de arcos de história inteiros.",
+      "items": [
+        {
+          "name": "Ichigo vs Byakuya",
+          "arc": "Arco da Soul Society",
+          "description": "Ichigo confronta Byakuya na Colina do Sokyoku e revela seu recém-alcançado Bankai, Tensa Zangetsu. Após o Hollow interno de Ichigo assumir brevemente o controle, os dois combatentes trocam ataques finais e Byakuya admite a derrota."
+        },
+        {
+          "name": "Ichigo vs Ulquiorra",
+          "arc": "Arco Arrancar",
+          "description": "Ulquiorra subjuga Ichigo com sua segunda Resurreccion e o deixa à beira da morte em Las Noches. Ichigo então se transforma em uma poderosa forma Hollow descontrolada, derrota Ulquiorra e recupera a consciência pouco antes de Ulquiorra se desintegrar."
+        },
+        {
+          "name": "Ichigo vs Aizen",
+          "arc": "Arco Arrancar",
+          "description": "Após treinar no Dangai, Ichigo retorna com um poder muito além das formas evoluídas de Aizen. Ele usa o Getsuga Tensho Final e o Mugetsu para enfraquecer Aizen, permitindo que o selo de Kido oculto de Kisuke Urahara o aprisione."
+        },
+        {
+          "name": "Ichigo vs Ginjo",
+          "arc": "Arco do Agente Perdido",
+          "description": "Ichigo recupera seus poderes de Soul Reaper com a ajuda do Gotei 13 e batalha contra Kugo Ginjo em suas formas Bankai. Ichigo derrota Ginjo, mas depois reconhece a solidão e o ressentimento que motivaram o antigo Soul Reaper Substituto."
+        },
+        {
+          "name": "Kenpachi vs Nnoitra",
+          "arc": "Arco Arrancar",
+          "description": "O Hierro durável de Nnoitra e sua Resurreccion de seis braços inicialmente resistem aos ataques de Kenpachi. Kenpachi eventualmente usa kendo com as duas mãos, desfere um golpe devastador e derrota o Quinto Espada."
+        },
+        {
+          "name": "Yamamoto vs Wonderweiss",
+          "arc": "Arco da Falsa Cidade de Karakura",
+          "description": "É revelado que Wonderweiss foi modificado especificamente para selar as chamas de Ryujin Jakka. Yamamoto o destrói com as próprias mãos, sobrevive à explosão resultante e usa o Hado 96 contra Aizen, embora Aizen escape do ataque."
+        },
+        {
+          "name": "Shunsui vs Starrk",
+          "arc": "Arco da Falsa Cidade de Karakura",
+          "description": "Shunsui batalha contra Coyote Starrk usando as brincadeiras infantis perigosas de Katen Kyokotsu enquanto vários outros combatentes entram no conflito. Shunsui, por fim, explora as regras de sua Shikai e desfere o golpe decisivo contra o Primeiro Espada."
+        },
+        {
+          "name": "Byakuya vs Tsukishima",
+          "arc": "Arco do Agente Perdido",
+          "description": "Tsukishima usa o Book of the End para se inserir no passado de Byakuya e aprender todas as técnicas estabelecidas. Byakuya rejeita essa manipulação emocional e o mata com um ataque de curto alcance formado pelas pétalas dispersas de Senbonzakura."
+        },
+        {
+          "name": "Rukia vs Aaroniero",
+          "arc": "Arco Arrancar",
+          "description": "Aaroniero usa a aparência e as memórias de Kaien Shiba para desestabilizar Rukia durante a batalha deles em Las Noches. Rukia supera sua culpa e o derrota estendendo Sode no Shirayuki através da cabeça dele com sua terceira dança."
+        },
+        {
+          "name": "Ichigo vs Yhwach",
+          "arc": "Arco da Guerra Sangrenta dos Mil Anos",
+          "description": "Yhwach usa repetidamente o The Almighty para alterar futuros possíveis e neutralizar os ataques de Ichigo. Com a ajuda das ilusões de Aizen e da flecha de Still Silver de Uryu, Ichigo desfere o golpe final que derrota o imperador Quincy."
+        }
+      ]
+    },
+    "bleachEpisodes": {
+      "title": "Episódios de BLEACH Mirrors High",
+      "eyebrow": "Guia do Anime",
+      "intro": "A série de televisão original de Bleach contém episódios baseados no mangá, histórias fillers originais do anime e vários intervalos que misturam ambos os tipos de material. Este guia destaca as maiores seções da história em vez de cada episódio filler individual.",
+      "items": [
+        {
+          "arc": "Arco do Soul Reaper Substituto",
+          "episodes": "Episódios 1-20",
+          "type": "Cânon",
+          "description": "Ichigo recebe poderes de Soul Reaper de Rukia, protege a Cidade de Karakura e começa a aprender sobre os Hollows e a Soul Society."
+        },
+        {
+          "arc": "Arco da Soul Society",
+          "episodes": "Episódios 21-63",
+          "type": "Misto",
+          "description": "O grupo de Ichigo entra na Soul Society para resgatar Rukia, levando a batalhas com o Gotei 13 e à revelação da traição de Aizen."
+        },
+        {
+          "arc": "Arco Bount",
+          "episodes": "Episódios 64-109",
+          "type": "Filler",
+          "description": "A história original do anime sobre os Bounts acompanha humanos imortais que consomem almas e depois invadem a Soul Society sob o comando de Jin Kariya."
+        },
+        {
+          "arc": "Chegada dos Arrancar e Início do Hueco Mundo",
+          "episodes": "Episódios 110-167",
+          "type": "Misto",
+          "description": "Os Arrancar de Aizen aparecem no Mundo Humano, Ichigo treina com os Visored e Orihime é levada para o Hueco Mundo. O intervalo inclui alguns episódios originais do anime."
+        },
+        {
+          "arc": "Arco da Rebelião das Zanpakuto",
+          "episodes": "Episódios 230-265",
+          "type": "Filler",
+          "description": "Muramasa faz com que vários espíritos de Zanpakuto se manifestem e se rebelem contra seus mestres Soul Reaper. Os episódios posteriores continuam com histórias sobre os espíritos manifestados restantes."
+        },
+        {
+          "arc": "Arco da Queda dos Arrancar",
+          "episodes": "Episódios 266-316",
+          "type": "Misto",
+          "description": "Os conflitos do Hueco Mundo e da Falsa Cidade de Karakura atingem seu clímax, terminando com o confronto final de Ichigo contra Aizen. Vários episódios originais do anime interrompem a história principal."
+        },
+        {
+          "arc": "Arco do Exército de Invasão do Gotei 13",
+          "episodes": "Episódios 317-342",
+          "type": "Filler",
+          "description": "Cópias artificiais de Soul Reapers infiltram-se na Soul Society enquanto o poder espiritual restante de Ichigo continua a desaparecer."
+        },
+        {
+          "arc": "Arco do Soul Reaper Substituto Perdido",
+          "episodes": "Episódios 343-366",
+          "type": "Cânon",
+          "description": "Ichigo conhece os Fullbringers da Xcution enquanto procura uma maneira de recuperar seus poderes, culminando em sua batalha com Kugo Ginjo."
+        }
+      ]
+    },
+    "bleachManga": {
+      "title": "Mangá BLEACH Mirrors High",
+      "eyebrow": "Guia do Mangá",
+      "intro": "O mangá Bleach de Tite Kubo foi compilado em 74 volumes contendo 686 capítulos numerados. Os principais arcos da história às vezes começam ou terminam no meio de um volume compilado, de modo que alguns intervalos de volumes se sobrepõem nos limites dos arcos.",
+      "items": [
+        {
+          "volume": "Volume 1",
+          "chapters": "Capítulos 1-7",
+          "arc": "Arco do Agente Shinigami",
+          "description": "Ichigo conhece Rukia Kuchiki, torna-se um Soul Reaper substituto e começa a proteger sua família e sua cidade dos Hollows."
+        },
+        {
+          "volume": "Volumes 1-8",
+          "chapters": "Capítulos 1-70",
+          "arc": "Arco do Agente Shinigami",
+          "description": "A história de abertura apresenta os aliados de Ichigo, o Quincy Uryu Ishida, e os eventos que levam à prisão de Rukia."
+        },
+        {
+          "volume": "Volumes 9-21",
+          "chapters": "Capítulos 71-182",
+          "arc": "Arco da Soul Society",
+          "description": "Ichigo e seus amigos invadem a Soul Society para impedir a execução de Rukia. O arco termina com Aizen revelando sua conspiração e escapando para o Hueco Mundo."
+        },
+        {
+          "volume": "Volumes 21-48",
+          "chapters": "Capítulos 183-423",
+          "arc": "Arco Arrancar",
+          "description": "Aizen cria um exército de Arrancar, Orihime é levada para o Hueco Mundo e o conflito se expande para a batalha pela cidade de Karakura. A história termina após Ichigo sacrificar seus poderes de Soul Reaper para derrotar Aizen."
+        },
+        {
+          "volume": "Volumes 49-54",
+          "chapters": "Capítulos 424-479",
+          "arc": "Arco do Agente Perdido",
+          "description": "Um Ichigo sem poderes encontra a Xcution e desenvolve o Fullbring enquanto tenta retornar à batalha. O arco revela a história de Kugo Ginjo como o primeiro Soul Reaper substituto."
+        },
+        {
+          "volume": "Volumes 55-74",
+          "chapters": "Capítulos 480-686",
+          "arc": "Arco da Guerra Sangrenta dos Mil Anos",
+          "description": "Yhwach e o Wandenreich invadem a Soul Society, forçando os Soul Reapers a confrontar os Quincy e a história oculta de seu mundo."
+        },
+        {
+          "volume": "Volume 74",
+          "chapters": "Capítulos 675-686",
+          "arc": "Final da Guerra Sangrenta dos Mil Anos",
+          "description": "O volume final resolve a batalha contra Yhwach e termina com um epílogo mostrando os personagens e seus filhos anos mais tarde."
+        },
+        {
+          "volume": "Volumes 1-74",
+          "chapters": "Capítulos 1-686",
+          "arc": "Série Completa",
+          "description": "O mangá completo de Bleach abrange 74 volumes compilados e 686 capítulos numerados, cobrindo a jornada original completa de Ichigo Kurosaki."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Perguntas",
+    "titleHighlight": "Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre BLEACH Mirrors High e o universo de Bleach.",
+    "questions": [
+      {
+        "question": "O que é BLEACH Mirrors High?",
+        "answer": "O BLEACH Mirrors High é uma wiki e central de recursos feita por fãs dedicada ao anime e mangá Bleach de Tite Kubo, cobrindo personagens, Zanpakuto, arcos de história, facções, habilidades, batalhas, episódios e capítulos do mangá."
+      },
+      {
+        "question": "O BLEACH Mirrors High é um site oficial de Bleach?",
+        "answer": "Não. O BLEACH Mirrors High é um recurso não oficial feito por fãs e não é afiliado a Tite Kubo, Shueisha, Studio Pierrot ou VIZ Media. Todos os direitos de Bleach pertencem aos seus respectivos proprietários."
+      },
+      {
+        "question": "Quem é o personagem principal de Bleach?",
+        "answer": "O personagem principal de Bleach é Ichigo Kurosaki, um adolescente que se torna um Soul Reaper substituto após receber poderes de Rukia Kuchiki. O BLEACH Mirrors High cobre toda a sua jornada do início ao fim."
+      },
+      {
+        "question": "Quantos volumes e capítulos do mangá de Bleach existem?",
+        "answer": "O mangá Bleach de Tite Kubo abrange 74 volumes compilados e 686 capítulos numerados, terminando com o arco da Guerra Sangrenta dos Mil Anos, que o BLEACH Mirrors High detalha minuciosamente."
+      },
+      {
+        "question": "O que é uma Zanpakuto em Bleach?",
+        "answer": "Uma Zanpakuto é la espada característica de um Soul Reaper em Bleach, com seu próprio nome e espírito que podem ser liberados nas formas Shikai e Bankai. O BLEACH Mirrors High cataloga as Zanpakuto mais icônicas e seus portadores."
+      },
+      {
+        "question": "Onde posso assistir ou ler Bleach oficialmente?",
+        "answer": "Você pode acompanhar os lançamentos oficiais de Bleach através do site oficial do anime e da VIZ Media. O BLEACH Mirrors High disponibiliza links para essas fontes oficiais para que você possa apoiar os criadores originais."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Junte-se à comunidade Bleach",
+    "description": "Mergulhe em guias de personagens, história das Zanpakuto, análises de arcos e análises de batalhas com outros fãs de Bleach.",
+    "joinCommunity": "Junte-se ao Reddit",
+    "joinGame": "Leia na VIZ"
+  },
+  "footer": {
+    "title": "BLEACH Mirrors High Wiki",
+    "description": "O seu centro de recursos completo para personagens de Bleach, Zanpakuto, arcos de história, Soul Reapers, Hollows, habilidades, batalhas, episódios e guias de mangá.",
+    "resources": "Recursos",
+    "community": "Comunidade",
+    "legal": "Legal",
+    "reddit": "Reddit",
+    "twitter": "X / Twitter",
+    "officialSite": "Site Oficial do Anime",
+    "vizMedia": "VIZ Media",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 BLEACH Mirrors High Wiki. Não afiliado a Tite Kubo, Shueisha, Studio Pierrot ou VIZ Media.",
+    "disclaimer": "Website de recursos não oficial feito por fãs."
+  },
+  "pages": {
+    "guide": {
+      "title": "Guias de Bleach",
+      "description": "Guias completos para assistir a Bleach, incluindo a lista de fillers de 2026, contagem de episódios, arcos de história, ordem de exibição e onde assistir a cada temporada do anime.",
+      "metaTitle": "Guias de Bleach - Lista de Fillers, Ordem de Exibição e Arcos de História",
+      "metaDescription": "Domine o anime Bleach com guias completos: lista de fillers de 2026, ordem de exibição recomendada, contagem de episódios, análises de arcos de história e plataformas de streaming.",
+      "categoryLabel": "GUIA",
+      "whatIs": "Guias para Assistir a Bleach",
+      "whatIsDescription": "Guias de acompanhamento passo a passo para navegar por todo o anime Bleach, desde a exibição original de 366 episódios até a sequência Thousand-Year Blood War, com listas de fillers selecionadas, ordens de exibição e análises de arcos.",
+      "why": "Por que usar estes guias",
+      "whySteps": {
+        "step1Title": "Pule os Fillers",
+        "step1Description": "Identifique cada episódio filler ao longo da exibição original para seguir apenas a história canônica sem perder o ritmo.",
+        "step2Title": "Assista na Ordem Certa",
+        "step2Description": "Siga a sequência de visualização recomendada que coloca os filmes, OVAs e a sequência Thousand-Year Blood War em suas posições corretas na história.",
+        "step3Title": "Entenda Cada Arco",
+        "step3Description": "Obtenha análises concisas de cada arco de história, desde a missão de resgate na Soul Society até Hueco Mundo e a guerra de sangue final."
+      },
+      "featured": "Guias em Destaque",
+      "all": "Todos os Guias"
+    },
+    "characters": {
+      "title": "Personagens de Bleach",
+      "description": "Perfis detalhados de Ichigo Kurosaki, Soul Reapers, Arrancar, Quincy e outros personagens importantes de Bleach em todos os arcos.",
+      "metaTitle": "Personagens de Bleach - Perfis de Soul Reapers, Arrancar e Quincy",
+      "metaDescription": "Explore perfis completos de personagens de Bleach cobrindo identidade, afiliação, história, relacionamentos, poderes, Zanpakuto e os principais desenvolvimentos da história.",
+      "categoryLabel": "PERSONAGENS",
+      "whatIs": "Personagens de Bleach",
+      "whatIsDescription": "Perfis de personagens abrangentes para os heróis, capitães, aliados e antagonistas de Bleach, cobrindo identidade, afiliação, história, relacionamentos e poderes.",
+      "why": "Por que ler perfis de personagens",
+      "whySteps": {
+        "step1Title": "Acompanhe Poderes e Evolução",
+        "step1Description": "Acompanhe as liberações de Zanpakuto de cada personagem, conquistas de Bankai e a evolução de poder em cada arco.",
+        "step2Title": "Entenda as Motivações",
+        "step2Description": "Decodifique as histórias de fundo e rivalidades que movem personagens importantes como Aizen, Yoruichi e os capitães do Gotei 13.",
+        "step3Title": "Mapeie Cada Facção",
+        "step3Description": "Veja como Soul Reapers, Visored, Arrancar e Quincy se conectam por meio das alianças e rivalidades de cada personagem."
+      },
+      "featured": "Personagens em Destaque",
+      "all": "Todos os Personagens"
+    },
+    "tybw": {
+      "title": "Bleach: Guerra Sangrenta dos Mil Anos",
+      "description": "Tudo sobre a sequência em anime de Bleach: Guerra Sangrenta dos Mil Anos, incluindo a parte 4 A Calamidade, datas de lançamento, trailers e divisões cour a cour.",
+      "metaTitle": "Bleach: Guerra Sangrenta dos Mil Anos - TYBW Parte 4 e A Calamidade",
+      "metaDescription": "Cobertura completa de Bleach: Guerra Sangrenta dos Mil Anos: data de lançamento da parte 4 A Calamidade, trailers, guias de episódios e uma divisão cour a cour do arco final.",
+      "categoryLabel": "TYBW",
+      "whatIs": "Guerra Sangrenta dos Mil Anos",
+      "whatIsDescription": "A célebre sequência em anime que adapta o arco final do mangá de Tite Kubo, colocando os Soul Reapers contra Yhwach e o Quincy Wandenreich em uma guerra por todos os três mundos.",
+      "why": "Por que acompanhar TYBW",
+      "whySteps": {
+        "step1Title": "Acompanhe os lançamentos da Parte 4",
+        "step1Description": "Mantenha-se atualizado com o cronograma de cours de A Calamidade, datas de estreia e as revelações do trailer final assim que saírem.",
+        "step2Title": "Confira as novas revelações de Bankai",
+        "step2Description": "Descubra as adições de Bankai e lore que o Studio Pierrot e Tite Kubo criaram exclusivamente para a adaptação em anime.",
+        "step3Title": "Entenda a Guerra Final",
+        "step3Description": "Acompanhe a invasão Quincy, a verdade sobre o Soul King e as batalhas decisivas que encerram a série."
+      },
+      "featured": "Cobertura em destaque de TYBW",
+      "all": "Toda a cobertura de TYBW"
+    },
+    "lore": {
+      "title": "Lore de Bleach",
+      "description": "Mergulhos profundos na lore de Bleach, incluindo o Soul King, Zanpakuto e Bankai, Quincy, Arrancar, Espada, Hollows e o arco do Inferno.",
+      "metaTitle": "Lore de Bleach - Soul King, Bankai, Quincy, Arrancar e Hollows",
+      "metaDescription": "Explore a lore e a construção de mundo de Bleach: o Soul King, as mecânicas de Zanpakuto e Bankai, as facções Quincy vs Arrancar, os rankings dos Espada, os tipos de Hollow e o arco do Inferno.",
+      "categoryLabel": "LORE",
+      "whatIs": "Lore e Construção de Mundo de Bleach",
+      "whatIsDescription": "Explorações aprofundadas da mitologia por trás de Bleach, desde a anatomia espiritual e mecânicas de Zanpakuto até as facções, patentes e estruturas cósmicas que moldam o universo.",
+      "why": "Por que mergulhar na lore",
+      "whySteps": {
+        "step1Title": "Domine os sistemas de poder",
+        "step1Description": "Entenda as liberações de Zanpakuto, Bankai, Resurreccion e Vollstandig, e como o poder de cada facção se compara ao das outras.",
+        "step2Title": "Decodifique facções e patentes",
+        "step2Description": "Aprenda a estrutura do Gotei 13, a numeração dos Espada, as letras dos Sternritter e a identidade dos Visored.",
+        "step3Title": "Descubra segredos cósmicos",
+        "step3Description": "Revele a verdade sobre o Soul King, o equilíbrio dos três mundos e a dimensão proibida do Inferno."
+      },
+      "featured": "Lore em destaque",
+      "all": "Toda a lore"
+    },
+    "games": {
+      "title": "Jogos de Bleach",
+      "description": "Guias para todos os jogos de Bleach, incluindo Bleach Mirrors High, Soul Resonance, Brave Souls e Rebirth of Souls, com tier lists e informações de lançamento.",
+      "metaTitle": "Jogos de Bleach - Bleach Mirrors High, Soul Resonance e mais",
+      "metaDescription": "Guias completos de jogos de Bleach: informações de lançamento e beta de Bleach Mirrors High, tier lists de Soul Resonance, dicas de Brave Souls e detonados de Rebirth of Souls.",
+      "categoryLabel": "JOGOS",
+      "whatIs": "Jogos de Videogame de Bleach",
+      "whatIsDescription": "Cobertura abrangente de Bleach em todas as plataformas de jogos, desde o aguardado Bleach Mirrors High até sucessos móveis como Brave Souls e Soul Resonance, e jogos de luta para console como Rebirth of Souls.",
+      "why": "Por que usar estes guias de jogos",
+      "whySteps": {
+        "step1Title": "Acompanhe Bleach Mirrors High",
+        "step1Description": "Acompanhe datas de lançamento, fases beta, plataformas e recursos de jogabilidade do novo título de ação em alta fidelidade de Bleach.",
+        "step2Title": "Monte as melhores equipes",
+        "step2Description": "Use as tier lists de Soul Resonance e os guias de unidades de Brave Souls para montar elencos de alto nível para todos os modos.",
+        "step3Title": "Domine os sistemas de combate",
+        "step3Description": "Aprenda as mecânicas por trás de Rebirth of Souls e de outros jogos de luta para vencer todas as batalhas e missões."
+      },
+      "featured": "Jogos em destaque",
+      "all": "Todos os jogos"
+    },
+    "codes": {
+      "title": "Códigos de jogos de Bleach",
+      "description": "Códigos de resgate ativos para jogos móveis de Bleach como Soul Resonance, com invocações gratuitas, moedas premium e recompensas atualizadas regularmente.",
+      "metaTitle": "Códigos de jogos de Bleach - Códigos ativos e recompensas de Soul Resonance",
+      "metaDescription": "Resgate os códigos de jogos de Bleach mais recentes e ativos para Soul Resonance e outros títulos para resgatar invocações gratuitas, moedas premium e recompensas exclusivas.",
+      "categoryLabel": "CÓDIGOS",
+      "whatIs": "Códigos de jogos de Bleach",
+      "whatIsDescription": "Códigos de resgate selecionados e atualizados para jogos móveis de Bleach que concedem moedas premium gratuitas, invocações, materiais de melhoria e recompensas por tempo limitado.",
+      "why": "Por que resgatar estes códigos",
+      "whySteps": {
+        "step1Title": "Obtenha moedas gratuitas",
+        "step1Description": "Resgate gemas e moedas premium sem gastar nada para poder invocar mais personagens e progredir mais rápido.",
+        "step2Title": "Resgate recompensas exclusivas",
+        "step2Description": "Desbloqueie unidades por tempo limitado, skins e materiais de melhoria que só estão disponíveis por meio de códigos ativos.",
+        "step3Title": "Mantenha-se atualizado",
+        "step3Description": "Adicione esta página aos favoritos para acompanhar os novos códigos lançados e a remoção de códigos expirados a cada atualização de jogo."
+      },
+      "featured": "Códigos em destaque",
+      "all": "Todos os códigos"
+    },
+    "movies": {
+      "title": "Filmes de Bleach",
+      "description": "Guia completo dos filmes de Bleach, incluindo o novo filme de 2026, as adaptações em live-action e filmes clássicos de anime como Memories of Nobody.",
+      "metaTitle": "Filmes de Bleach - Guia do Filme de 2026, Live-Action e Filmes de Anime",
+      "metaDescription": "Todos os filmes de Bleach cobertos: o próximo filme de 2026, as adaptações em live-action e filmes clássicos de anime como Memories of Nobody, com enredo, status de cânone e onde assistir.",
+      "categoryLabel": "FILMES",
+      "whatIs": "Filmes de Bleach",
+      "whatIsDescription": "Uma biblioteca completa que cobre todos os filmes de Bleach, desde o próximo lançamento nos cinemas em 2026 até as adaptações em live-action e o catálogo clássico de filmes de anime.",
+      "why": "Por que explorar os filmes",
+      "whySteps": {
+        "step1Title": "Acompanhe o filme de 2026",
+        "step1Description": "Acompanhe as datas de lançamento, trailers, elenco e o posicionamento no cânone do mais novo filme de Bleach nos cinemas.",
+        "step2Title": "Avalie o status do cânone",
+        "step2Description": "Saiba quais filmes de anime e adaptações em live-action se encaixam na história principal e quais são histórias paralelas.",
+        "step3Title": "Descubra os clássicos",
+        "step3Description": "Revisite os filmes favoritos dos fãs, como Memories of Nobody, com resumos de enredo e detalhes sobre onde assisti-los."
+      },
+      "featured": "Filmes em destaque",
+      "all": "Todos os filmes"
+    }
   }
 }

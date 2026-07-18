@@ -1,11 +1,768 @@
 {
+  "seo": {
+    "home": {
+      "title": "BLEACH Mirrors High - Bleachのキャラクター、Zanpakuto、アーク、伝承",
+      "description": "Tite Kuboによる伝説的な漫画・アニメシリーズ、Bleachのキャラクター、ストーリーアーク、Zanpakuto、Soul Reaper、Hollow、バトル、そして伝承を探索しましょう。",
+      "keywords": "Bleach, 一護, Soul Reaper, Zanpakuto, キャラクター, アーク, Hollow, アニメ, 漫画",
+      "ogTitle": "BLEACH Mirrors High - Bleachのキャラクター、Zanpakuto、アーク、伝承",
+      "ogDescription": "Tite Kuboによる伝説的な漫画・アニメシリーズ、Bleachのキャラクター、ストーリーアーク、Zanpakuto、Soul Reaper、Hollow、バトル、そして伝承を探索しましょう。",
+      "twitterTitle": "BLEACH Mirrors High - Bleachのキャラクター、Zanpakuto、アーク、伝承",
+      "twitterDescription": "Tite Kuboによる伝説的な漫画・アニメシリーズ、Bleachのキャラクター、ストーリーアーク、Zanpakuto、Soul Reaper、Hollow、バトル、そして伝承を探索しましょう。"
+    }
+  },
   "nav": {
     "guide": "ガイド",
     "characters": "キャラクター",
-    "tybw": "TYBW",
-    "lore": "世界観",
+    "tybw": "千年血戦篇",
+    "lore": "伝承",
     "games": "ゲーム",
     "codes": "コード",
     "movies": "映画"
+  },
+  "common": {
+    "home": "ホーム",
+    "more": "もっと見る",
+    "playNow": "Steamでプレイ",
+    "switchLanguage": "言語を切り替える",
+    "switchTheme": "テーマを切り替える",
+    "lightMode": "ライトモード",
+    "darkMode": "ダークモード",
+    "notFound": "ページが見つかりません",
+    "notFoundDescription": "お探しのページは存在しません。",
+    "backToHome": "ホームに戻る",
+    "relatedArticles": "関連記事",
+    "readMore": "続きを読む",
+    "articlesComingSoon": "記事は近日公開予定"
+  },
+  "hero": {
+    "badge": "伝説の超自然少年アニメ",
+    "title": "BLEACH Mirrors High Wiki",
+    "description": "死神となり、自身のZanpakutoを極め、ホロウと戦いながら、現世と霊界の平和を守るIchigo Kurosakiの活躍を追おう。",
+    "getFreeCodesCTA": "Explore Guides",
+    "playOnSteamCTA": "アニメ公式サイト",
+    "stats": {
+      "stat1": {
+        "value": "74",
+        "label": "Manga Volumes"
+      },
+      "stat2": {
+        "value": "686",
+        "label": "Manga Chapters"
+      },
+      "stat3": {
+        "value": "366",
+        "label": "アニメオリジナルエピソード"
+      },
+      "stat4": {
+        "value": "13",
+        "label": "護廷十三隊"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Bleach アニメ＆マンガハブ",
+    "description": "Tite KuboによるBleachの世界をすべて探索しよう。キャラクター、Zanpakuto、ストーリーアーク、勢力、能力、象徴的な戦い、エピソードガイド、そして原作マンガがすべて一箇所に集結。"
+  },
+  "tools": {
+    "title": "BLEACH Mirrors High",
+    "titleHighlight": "Guides",
+    "subtitle": "Bleachのキャラクター、Zanpakuto、ストーリーアーク、勢力、能力、そして戦いを探索するために必要なすべてがここに。",
+    "cards": [
+      {
+        "icon": "Users",
+        "title": "Bleach キャラクター",
+        "description": "Ichigo、死神、アランカル、クインシーなど"
+      },
+      {
+        "icon": "Sword",
+        "title": "Bleach Zanpakuto",
+        "description": "始解、卍解、所有者、および能力"
+      },
+      {
+        "icon": "Route",
+        "title": "Bleach Arcs",
+        "description": "死神代行から千年血戦篇までの完全なタイムライン"
+      },
+      {
+        "icon": "Flag",
+        "title": "Bleach Factions",
+        "description": "護廷十三隊、エスパーダ、ヴァイザード、クインシー、ヴァンデンライヒ"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Bleach の能力",
+        "description": "鬼道、虚閃（セロ）、鋼皮（イエロ）、完現術（フルブリング）、およびクインシーの力"
+      },
+      {
+        "icon": "Swords",
+        "title": "Bleach Battles",
+        "description": "Ichigo対Aizen、Ulquiorra、Yhwachなど"
+      },
+      {
+        "icon": "Clapperboard",
+        "title": "Bleach Episodes",
+        "description": "原作エピソード、アニメオリジナル、および視聴順ガイド"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Bleach Manga",
+        "description": "単行本、各話、およびアニメとマンガの違い"
+      }
+    ]
+  },
+  "modules": {
+    "bleachCharacters": {
+      "title": "BLEACH Mirrors High キャラクター",
+      "eyebrow": "キャラクターガイド",
+      "intro": "Bleach は、忠誠心、能力、そして個人の歴史が霊界のバランスに影響を与える、多くの戦士たちを追っています。これらのキャラクターカードでは、主要なヒーロー、隊長、味方、そして敵対者を紹介します。",
+      "items": [
+        {
+          "name": "Ichigo Kurosaki",
+          "role": "Soul Reaper 代行",
+          "affiliation": "Karakura 町の仲間たち",
+          "description": "Rukia Kuchiki から Soul Reaper の力を得た人間。家族や友人、そして現世と Soul Society の両方を守るため、霊的な戦いに繰り返し身を投じます。"
+        },
+        {
+          "name": "Rukia Kuchiki",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13、第十三隊",
+          "description": "物語の冒頭で Ichigo に力を与えた Soul Reaper。後に強力な席官となり、最終的には第十三隊の隊長となります。"
+        },
+        {
+          "name": "Renji Abarai",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13、第六隊",
+          "description": "第六隊の副隊長であり、Rukia の幼馴染。Renji は最初 Ichigo の敵として登場しますが、後に最も信頼できる味方の一人となります。"
+        },
+        {
+          "name": "Byakuya Kuchiki",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13、第六隊",
+          "description": "第六隊の隊長であり、名門 Kuchiki 一族の当主。Soul Society の掟に対する彼の厳格な献身は、Ichigo や Rukia との出会いを通じて徐々に変化していきます。"
+        },
+        {
+          "name": "Toshiro Hitsugaya",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13、第十隊",
+          "description": "第十隊の隊長を務める若き神童。最も強力な氷雪系の Zanpakuto の一つである Hyorinmaru を操ります。"
+        },
+        {
+          "name": "Kenpachi Zaraki",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13、第十一隊",
+          "description": "戦闘を好む第十一隊の隊長であり、Kenpachi の称号の保持者。圧倒的な霊圧、肉体的な強さ、そして強敵と戦いたいという本能的な欲求に頼っています。"
+        },
+        {
+          "name": "Sosuke Aizen",
+          "role": "Soul Reaper",
+          "affiliation": "元 Gotei 13、Arrancar 軍",
+          "description": "Soul Society 全体の出来事を裏で操る、元第五隊の隊長。彼は Soul Reaper、Hollow、そして Soul King を隔てる限界を超えることを目指しています。"
+        },
+        {
+          "name": "Ulquiorra Cifer",
+          "role": "Arrancar",
+          "affiliation": "Espada",
+          "description": "Aizen の軍勢における第4 Espada であり、Ichigo の最も危険な敵の一人。彼の冷静で感情のない世界観は、Orihime との交流を通じて揺るがされます。"
+        },
+        {
+          "name": "Gin Ichimaru",
+          "role": "Soul Reaper",
+          "affiliation": "元 Gotei 13、Aizen の軍勢",
+          "description": "本心を隠しながら Aizen に従う、元第三隊の隊長。常に浮かべる微笑みと欺瞞的な行動により、彼の忠誠心がどこにあるのかを理解するのは困難です。"
+        },
+        {
+          "name": "Yoruichi Shihoin",
+          "role": "Soul Reaper",
+          "affiliation": "元第二隊、Urahara 商店の仲間たち",
+          "description": "元第二隊の隊長であり、元 Onmitsukido の総司令官。白打、隠密、そして高速移動の達人です。"
+        },
+        {
+          "name": "Uryu Ishida",
+          "role": "Quincy",
+          "affiliation": "Karakura 町の仲間たち、Ishida 家",
+          "description": "熟練した Quincy の弓兵であり、Ichigo の最も親しい仲間の一人。彼の Quincy としての血統により、彼は Wandenreich との最終決戦の中心に身を置くことになります。"
+        },
+        {
+          "name": "Orihime Inoue",
+          "role": "人間",
+          "affiliation": "Karakura 町 of 仲間たち",
+          "description": "Ichigo の同級生であり、Shun Shun Rikka の能力者。彼女の能力は事象を「拒絶」することができ、傷を癒やし、結界を張り、仲間を守ることができます。"
+        }
+      ]
+    },
+    "bleachZanpakuto": {
+      "title": "BLEACH Mirrors High Zanpakuto",
+      "eyebrow": "武器ガイド",
+      "intro": "Zanpakutoは持ち主の魂を映し出し、独自の名前と精神を持っています。その精神と対話することで、Soul ReaperはShikaiを、そして最終的には遥かに強力なBankaiを解放することができます。",
+      "items": [
+        {
+          "name": "Zangetsu",
+          "wielder": "Ichigo Kurosaki",
+          "shikai": "Ichigoの霊力をGetsuga Tenshoなどの攻撃に注ぎ込む、常時解放型の巨大な刃。",
+          "bankai": "そのBankaiはTensa Zangetsuであり、Ichigoの力をより小さな刃に凝縮し、彼の速度と戦闘能力を大幅に向上させます。"
+        },
+        {
+          "name": "袖白雪",
+          "wielder": "Rukia Kuchiki",
+          "shikai": "一連の舞いを用いて対象を凍らせ、氷の道を作り出し、刃の周囲の温度を下げます。",
+          "bankai": "白霞罰はRukiaの体温を劇的に下げ、その効果範囲内にあるすべてを凍らせます。"
+        },
+        {
+          "name": "Zabimaru",
+          "wielder": "Renji Abarai",
+          "shikai": "鞭のように伸びて遠くの敵を攻撃できる、蛇腹状 of 刃に変形します。",
+          "bankai": "双王蛇尾丸は、強力な物理攻撃と霊的攻撃を繰り出す、巨大な骨状および猿のような部位を生み出します。"
+        },
+        {
+          "name": "Senbonzakura",
+          "wielder": "Byakuya Kuchiki",
+          "shikai": "刃を、舞い散る桜の花びらに似た無数の小さな刃に分解します。",
+          "bankai": "千本桜景厳は、制御可能な数百万の破片に分裂する巨大な刃を召喚し、いくつかの特化した攻撃形態を形成することができます。"
+        },
+        {
+          "name": "Kyoka Suigetsu",
+          "wielder": "Sosuke Aizen",
+          "shikai": "その解放を目撃した者を完全催眠に陥れ、Aizenが五感すべてを支配することを可能にします。",
+          "bankai": "不明"
+        },
+        {
+          "name": "Hyorinmaru",
+          "wielder": "Toshiro Hitsugaya",
+          "shikai": "大量の氷と水を生成して制御し、しばしば氷の竜の姿をとります。",
+          "bankai": "大紅蓮氷輪丸は氷の翼、爪、そして尾を形成します。その完成された状態は、物質と影響を受けた対象の機能の両方を凍結させることができます。"
+        },
+        {
+          "name": "Katen Kyokotsu",
+          "wielder": "Shunsui Kyoraku",
+          "shikai": "子供の遊びを、その範囲内にいる参加者全員に影響を与える実際の戦闘ルールに変えます。",
+          "bankai": "Katen Kyokotsu: 枯松心中は、周囲の敵を、傷の共有、病、溺死、そして最後の斬首攻撃を含む四幕の悲劇に陥れます。"
+        },
+        {
+          "name": "Ryujin Jakka",
+          "wielder": "Genryusai Yamamoto",
+          "shikai": "広範囲を焼き尽くし、対象を灰に帰すことができる圧倒的な炎を生み出します。",
+          "bankai": "残火の太刀は炎を刃に集中させ、極限の熱、破壊的な接触、防御、そして過去の犠牲者の亡骸を伴う4つの方向性の能力を付与します。"
+        },
+        {
+          "name": "Minazuki",
+          "wielder": "Retsu Unohana",
+          "shikai": "負傷した味方を運び、その体内で治療する巨大な飛行生物に変形します。",
+          "bankai": "Minazukiは近接戦闘中にUnohanaとその刀の周囲に血のような液体を放出します。その詳細な仕組みは完全には説明されていません。"
+        },
+        {
+          "name": "Nozarashi",
+          "wielder": "Kenpachi Zaraki",
+          "shikai": "巨大な斧のような刃に変形し、巨大な物体や重装甲の敵を破壊するのに十分な切れ味を持ちます。",
+          "bankai": "Kenpachiを、筋力と切れ味が劇的に向上した赤い肌の狂戦士に変貌させますが、当初はそれを制御するのに苦労します。"
+        },
+        {
+          "name": "双魚理",
+          "wielder": "Jushiro Ukitake",
+          "shikai": "紐と札で繋がれた2本の刃に分裂し、Ukitakeがエネルギー攻撃を吸収して受け流すことを可能にします。",
+          "bankai": "不明"
+        }
+      ]
+    },
+    "bleachArcs": {
+      "title": "BLEACH Mirrors High 篇",
+      "eyebrow": "ストーリータイムライン",
+      "intro": "Bleach のストーリーは、Karakura の街での超自然的な事件から、Soul Society、Hueco Mundo、そして Quincy 帝国を巻き込む戦争へと拡大していきます。このタイムラインでは、主要な原作の篇を物語の順序で紹介します。",
+      "steps": [
+        {
+          "title": "Substitute Soul Reaper 篇",
+          "description": "Ichigo Kurosaki は Rukia Kuchiki から Soul Reaper の力を受け取り、Karakura の街を Hollow から守り始めます。彼は Orihime Inoue、Yasutora Sado、そして Quincy の弓使いである Uryu Ishida を含む、霊力を持つ仲間たちと出会います。"
+        },
+        {
+          "title": "Soul Society 篇",
+          "description": "ルキアは人間に力を譲渡した罪で逮捕され、死刑を宣告されます。一護とその仲間たちは Soul Society に侵入し、Gotei 13 のメンバーと戦い、Sosuke Aizen の隠された陰謀を暴きます。"
+        },
+        {
+          "title": "Arrancar: The Arrival 篇",
+          "description": "藍染は Hogyoku を使って Arrancar の軍勢を生み出し、現世を攻撃するために彼らを送り込みます。一護は Visored と共に修行しながら、内なる Hollow を制御するのに苦心します。"
+        },
+        {
+          "title": "Hueco Mundo 篇",
+          "description": "織姫が Hueco Mundo にある藍染の要塞に連れ去られたため、一護、雨竜、チャドは救出作戦を開始します。彼らは Las Noches を進みながら、数多くの Arrancar や Espada と戦います。"
+        },
+        {
+          "title": "Turn Back the Pendulum 篇",
+          "description": "回想により、1世紀以上前に Soul Society で起きた出来事が明らかになります。藍染の虚化実験によって、どのようにして複数の隊長や副隊長が Visored へと変貌したのかが説明されます。"
+        },
+        {
+          "title": "Fake Karakura Town 篇",
+          "description": "Gotei 13 は、Karakura のレプリカの中で、藍染、ギン、東仙、そして残りの Espada と対峙します。一護は最終的に、藍染との決戦に必要な力を得るために激しい修行を積むことになります。"
+        },
+        {
+          "title": "Lost Agent 篇",
+          "description": "Soul Reaper の能力を失った後、一護は Kugo Ginjo と Fullbringer の組織である Xcution に出会います。彼の力を取り戻すという彼らの約束は、奪われた Fullbring の能力と銀城の過去を巻き込む衝突へと発展していきます。"
+        },
+        {
+          "title": "Thousand-Year Blood War 篇",
+          "description": "Yhwach と Wandenreich は Soul Society に侵攻して Bankai を奪い、Soul Reaper たちに宣戦布告します。一護は、衝突が Soul King 宮殿にまで拡大し、すべての世界の構造を脅かす中で、自身の出生の真実を知ることになります。"
+        }
+      ]
+    },
+    "bleachFactions": {
+      "title": "BLEACH Mirrors High 勢力",
+      "eyebrow": "勢力ガイド",
+      "intro": "Bleach の衝突は、正義、生存、復讐、そして魂の均衡について対立する理念を持つ組織によって引き起こされます。確立された霊的秩序を守る者もいれば、それを破壊または置き換えようとする者もいます。",
+      "items": [
+        {
+          "name": "Gotei 13",
+          "leader": "Genryusai Yamamoto、後に Shunsui Kyoraku",
+          "description": "Soul Society を保護し、世界間の均衡を維持する責任を負う13の軍事部隊。各隊は隊長によって指揮され、通常は特定の任務や戦闘スタイルを専門としています。"
+        },
+        {
+          "name": "Espada",
+          "leader": "Sosuke Aizen",
+          "description": "藍染の軍勢における霊力順に番号を振られた10人の最高位の Arrancar。彼らは下位 of Arrancar を支配し、既存の秩序を覆すという藍染の計画を支援するために戦います。"
+        },
+        {
+          "name": "Visored",
+          "leader": "Shinji Hirako（事実上）",
+          "description": "藍染の実験によって Hollow の力を得た元 Soul Reaper の隊長や副隊長たち。彼らは当初、追放の身として暮らしていましたが、後に一護が内なる Hollow を制御するのを助け、藍染に対抗します。"
+        },
+        {
+          "name": "Quincy",
+          "leader": "Yhwach",
+          "description": "集められた霊子から形成された武器を使用して Hollow を消滅させる、霊力を持つ人間たち。Hollow を完全に消し去る彼らの方法は魂の均衡を脅かし、歴史的に彼らを Soul Reaper たちとの衝突へと導いてきました。"
+        },
+        {
+          "name": "Wandenreich",
+          "leader": "Yhwach",
+          "description": "Soul Society の影で生き残り、千年の復讐劇に備える隠された Quincy 帝国。その Sternritter は Soul Society に侵攻して Bankai を奪い、Yhwach の支配下で世界を再構築しようと試みます。"
+        },
+        {
+          "name": "Xcution",
+          "leader": "Kugo Ginjo",
+          "description": "自分たちの力を取り除き、普通の人間になりたいと主張する Fullbringer の組織。しかし銀城は、一護を操り、彼が開発した Fullbring で強化された Soul Reaper の力を奪うためにこのグループを利用します。"
+        },
+        {
+          "name": "Fullbringers",
+          "leader": "様々",
+          "description": "物質の中に宿る魂を操ることができる人間。彼らの力は通常、母親が Hollow の襲撃を生き延びた後に発現しますが、Fullbringer たちは一つの統一された組織に属しているわけでも、単一の目標を共有しているわけでもありません。"
+        }
+      ]
+    },
+    "bleachAbilities": {
+      "title": "BLEACH Mirrors High アビリティ",
+      "eyebrow": "戦闘システム",
+      "intro": "Bleach には、霊力、種族、修行、そして個人の武器に基づいた、相互に関連するいくつかの能力システムが存在します。これらの能力は、正式な Soul Reaper の術から、本能的な Hollow の攻撃、特化した Quincy の防御まで多岐にわたります。",
+      "items": [
+        {
+          "name": "Kido",
+          "type": "Soul Reaper の術",
+          "description": "Kido は、詠唱と番号付きの技術によって発動する Soul Reaper の霊的な術のシステムです。Hado の術は破壊に特化している一方、Bakudo の術は対象の拘束、防御、追跡、または封印を行います。テッサイ、ハチゲン、Aizen などの達人は、詠唱を短縮または破棄して高度な Kido を使用することができます。"
+        },
+        {
+          "name": "Cero",
+          "type": "Hollow の力",
+          "description": "Cero は、主にメノス Hollow や Arrancar が放つ、凝縮された霊圧の閃光です。その威力、速度、色、放つ部位は使用者によって異なり、より強力なバリエーションとして Gran Rey Cero や Cero Oscuras などが存在します。"
+        },
+        {
+          "name": "Hierro",
+          "type": "Arrancar の防御",
+          "description": "Hierro は、体中に霊圧を集中させることで Arrancar の皮膚を硬化させる技術です。その硬度は個人によって異なり、Nnoitra Gilga のような戦士は極めて強力な Hierro を持っています。"
+        },
+        {
+          "name": "Hollowfication",
+          "type": "Hollow の力",
+          "description": "Hollowfication は、Soul Reaper に Hollow の特徴と力を与え、多くの場合、仮面を出現させ、速度、筋力、そして霊圧を大幅に上昇させます。Ichigo や Visored はこの力を制御された形で使用しますが、制御を失うと、より完全な Hollow への変貌を引き起こす可能性があります。"
+        },
+        {
+          "name": "Bankai",
+          "type": "Zanpakuto の解放",
+          "description": "Bankai は Soul Reaper の Zanpakuto の2段階目にして最終の解放であり、通常、習得とマスターには長年の修行が必要です。それぞれの Bankai は使用者の精神を反映し、武器、周囲の環境、または使い手の戦闘能力を劇的に変化させることができます。"
+        },
+        {
+          "name": "Getsuga Tensho",
+          "type": "Zanpakuto の技",
+          "description": "Getsuga Tensho は Ichigo Kurosaki の代表的な技であり、Zangetsu から凝縮された霊圧を強力な三日月型の斬撃として放ちます。Ichigo は、自身の Shikai、Bankai、Hollow 化された状態、そして後に手にする二刀流の力を通じて、さまざまな形態のこの技を使用することができます。"
+        },
+        {
+          "name": "Shunpo",
+          "type": "Soul Reaper の歩法",
+          "description": "Shunpo は、通常の視覚では追いきれないほどの速度で移動することを可能にする Soul Reaper の高速移動技術です。Yoruichi Shihoin、Soi Fon、Byakuya Kuchiki などが、その最も優れた使い手として知られています。"
+        },
+        {
+          "name": "Sonido",
+          "type": "Arrancar の歩法",
+          "description": "Sonido は Arrancar における高速移動技術であり、使用時に独特の音を発するのが特徴です。熟練した Arrancar はこれを用いて攻撃を回避し、残像を作り出し、相手が反応する前に位置を再調整することができます。"
+        },
+        {
+          "name": "飛廉脚とブルート・ヴェーネ",
+          "type": "Quincy の技術",
+          "description": "Hirenkyaku は、足元の霊子の流れに乗ることで Quincy が高速移動することを可能にします。Blut Vene は使用者の血管に霊圧を流し込むことで防御力を大幅に高め、その攻撃的な対となる Blut Arterie は攻撃を強化します。"
+        },
+        {
+          "name": "Fullbring",
+          "type": "人間の能力",
+          "description": "Fullbring は、霊的な知覚を持つ人間が物質の中に宿る魂を操作することを可能にします。各 Fullbringer は、Ginjo の Soul Reaper 代行証や Tsukishima のしおりのように、思い入れのある品に関連した独自の能力を発達させます。"
+        }
+      ]
+    },
+    "bleachBattles": {
+      "title": "BLEACH Mirrors High の戦い",
+      "eyebrow": "名勝負",
+      "intro": "Bleach の戦いは、剣術、進化する変身、戦術的な能力、そして個人的な葛藤が融合しています。これらの主要な戦いは、決定的な技術を紹介し、長年のライバル関係を解決し、ストーリーアーク全体の結末を決定づけます。",
+      "items": [
+        {
+          "name": "Ichigo対Byakuya",
+          "arc": "Soul Society 篇",
+          "description": "Ichigo は双殛の丘で Byakuya と対峙し、新たに習得した Bankai である Tensa Zangetsu を披露します。Ichigo の内なる Hollow が一時的に制御を奪った後、両者は最後の攻撃を交わし、Byakuya は敗北を認めます。"
+        },
+        {
+          "name": "Ichigo対Ulquiorra",
+          "arc": "Arrancar 篇",
+          "description": "Ulquiorra は二段階目の Resurreccion で Ichigo を圧倒し、Las Noches で彼を瀕死の状態に追い込みます。その後、Ichigo は制御不能な強力な Hollow の姿に変貌して Ulquiorra を打ち破り、Ulquiorra が消滅する直前に意識を取り戻します。"
+        },
+        {
+          "name": "Ichigo vs Aizen",
+          "arc": "Arrancar 篇",
+          "description": "断界での修業の後、Ichigo は Aizen の進化形態を遥かに凌駕する力を持って帰還します。彼は最後の Getsuga Tensho と無月を使用して Aizen を弱体化させ、Kisuke Urahara の隠された Kido の封印によって彼を幽閉することに成功します。"
+        },
+        {
+          "name": "Ichigo vs Ginjo",
+          "arc": "死神代行消失篇",
+          "description": "Ichigo は Gotei 13 の助けを借りて Soul Reaper の力を取り戻し、それぞれの Bankai 形態で Kugo Ginjo と死闘を繰り広げます。Ichigo は Ginjo を倒しますが、後にその元代行 Soul Reaper を突き動かしていた孤独と怨恨を理解します。"
+        },
+        {
+          "name": "Kenpachi対Nnoitra",
+          "arc": "Arrancar 篇",
+          "description": "Nnoitra の頑丈な Hierro と6本腕の Resurreccion は、当初 Kenpachi の攻撃に耐えます。Kenpachi は最終的に両手持ちの剣道を使用し、壊滅的な一撃を与えて第5 Espada を撃破します。"
+        },
+        {
+          "name": "Yamamoto対Wonderweiss",
+          "arc": "偽の Karakura Town 篇",
+          "description": "Wonderweiss は、Ryujin Jakka の炎を封印するためだけに改造されたことが明らかになります。Yamamoto は素手で彼を破壊し、その結果生じた爆発を生き延び、Aizen に対して Hado 96 を使用しますが、Aizen はその攻撃から逃れます。"
+        },
+        {
+          "name": "Shunsui対Starrk",
+          "arc": "偽の Karakura Town 篇",
+          "description": "Shunsui は、他の数人の戦士が戦闘に加わる中、Katen Kyokotsu の危険な子供の遊びを用いて Coyote Starrk と戦います。Shunsui は最終的に自身の Shikai のルールを利用し、第1 Espada に対して決定的な一撃を放ちます。"
+        },
+        {
+          "name": "Byakuya対Tsukishima",
+          "arc": "死神代行消失篇",
+          "description": "Tsukishima は Book of the End を使って Byakuya の過去に自分を挟み込み、すべての既得の技術を学習します。Byakuya はその精神的な操作を拒絶し、散り散りになった Senbonzakura の花びらから形成された至近距離からの攻撃で彼を倒します。"
+        },
+        {
+          "name": "Rukia対Aaroniero",
+          "arc": "Arrancar 篇",
+          "description": "Aaroniero は Las Noches での戦闘中、Kaien Shiba の姿と記憶を利用して Rukia の心を揺さぶります。Rukia は罪悪感を乗り越え、三の舞によって Sode no Shirayuki を彼の頭部に突き通すことで彼を倒します。"
+        },
+        {
+          "name": "Ichigo対Yhwach",
+          "arc": "千年血戦篇",
+          "description": "Yhwach は The Almighty を繰り返し使用して可能性のある未来を改変し、Ichigo の攻撃を無効化します。Aizen の幻覚と Uryu の静止の銀の矢の助けを借りて、Ichigo は Quincy の皇帝を倒す最後の一撃を放ちます。"
+        }
+      ]
+    },
+    "bleachEpisodes": {
+      "title": "BLEACH Mirrors High エピソード",
+      "eyebrow": "アニメガイド",
+      "intro": "オリジナルの Bleach テレビシリーズには、原作漫画に基づくエピソード、アニメオリジナルのフィラーストーリー、そしてその両方が混在するいくつかの期間が含まれています。このガイドでは、個々のフィラーエピソードすべてではなく、主要なストーリーセクションに焦点を当てています。",
+      "items": [
+        {
+          "arc": "Substitute Soul Reaper 篇",
+          "episodes": "第1〜20話",
+          "type": "本編",
+          "description": "Ichigo は Rukia から Soul Reaper の力を受け取り、Karakura Town を守り、Hollow や Soul Society について学び始めます。"
+        },
+        {
+          "arc": "Soul Society 篇",
+          "episodes": "第21〜63話",
+          "type": "混合",
+          "description": "Ichigo たちのグループは Rukia を救出するために Soul Society に入り、Gotei 13 との戦いや Aizen の裏切りの発覚へと繋がっていきます。"
+        },
+        {
+          "arc": "バウント篇",
+          "episodes": "第64〜109話",
+          "type": "フィラー",
+          "description": "アニメオリジナルのバウントのストーリーラインでは、魂を吸う不老不死の人間たちを追い、彼らは後に 狩矢神 の率いる Soul Society へと侵入します。"
+        },
+        {
+          "arc": "Arrancar 出現と初期 Hueco Mundo 篇",
+          "episodes": "第110〜167話",
+          "type": "混合",
+          "description": "Aizen の Arrancar が現世に現れ、Ichigo は Visored と共に修行し、Orihime は Hueco Mundo へと連れ去られます。この期間には一部のアニメオリジナルエピソードも含まれています。"
+        },
+        {
+          "arc": "Zanpakuto 異聞篇",
+          "episodes": "第230〜265話",
+          "type": "フィラー",
+          "description": "村正 は数多くの Zanpakuto の実体化を引き起こし、彼らの主である Soul Reaper たちに対して反乱を起こさせます。後半のエピソードでは、残された実体化した精霊たちの物語が続きます。"
+        },
+        {
+          "arc": "Arrancar 滅亡篇",
+          "episodes": "第266〜316話",
+          "type": "混合",
+          "description": "Hueco Mundo と偽の Karakura Town での衝突がクライマックスに達し、Ichigo と Aizen の最終決戦で幕を閉じます。いくつかの アニメオリジナルエピソードが本編のストーリーラインに挟まれます。"
+        },
+        {
+          "arc": "Gotei 13 侵軍篇",
+          "episodes": "第317〜342話",
+          "type": "フィラー",
+          "description": "Soul Reaper の人工的なコピーが Soul Society に侵入する一方、Ichigo の残された霊力は消えかけていきます。"
+        },
+        {
+          "arc": "Lost Substitute Soul Reaper 篇",
+          "episodes": "第343〜366話",
+          "type": "本編",
+          "description": "Ichigo は力を取り戻す方法を探す中で Xcution の Fullbringer たちと出会い、Kugo Ginjo との戦いで最高潮に達します。"
+        }
+      ]
+    },
+    "bleachManga": {
+      "title": "BLEACH Mirrors High 漫画",
+      "eyebrow": "漫画ガイド",
+      "intro": "Tite KuboのBleach漫画は、686のナンバリングされた章を含む全74巻に収録されました。主要なストーリーのアークは、収録巻の途中で始まったり終わったりすることがあるため、アークの境界で一部の巻の範囲が重複しています。",
+      "items": [
+        {
+          "volume": "第1巻",
+          "chapters": "第1〜7話",
+          "arc": "死神代行篇",
+          "description": "一護はRukia Kuchikiと出会い、代行のSoul Reaperとなり、家族や町をHollowから守り始めます。"
+        },
+        {
+          "volume": "第1〜8巻",
+          "chapters": "第1〜70話",
+          "arc": "死神代行篇",
+          "description": "物語の導入部では、一護の仲間たち、QuincyであるUryu Ishida、そしてルキアの逮捕に至る出来事が紹介されます。"
+        },
+        {
+          "volume": "第9〜21巻",
+          "chapters": "第71〜182話",
+          "arc": "Soul Society篇",
+          "description": "一護と仲間たちはルキアの処刑を阻止するためにSoul Societyに侵入します。このアークは、藍染が陰謀を明らかにし、Hueco Mundoへ逃亡することで幕を閉じます。"
+        },
+        {
+          "volume": "第21〜48巻",
+          "chapters": "第183〜423話",
+          "arc": "Arrancar篇",
+          "description": "藍染はArrancarの軍勢を生み出し、織姫はHueco Mundoへと連れ去られ、衝突はKarakura町を巡る戦いへと拡大します。このストーリーは、一護が藍染を倒すために自身のSoul Reaperの力を犠牲にした後に終結します。"
+        },
+        {
+          "volume": "第49〜54巻",
+          "chapters": "第424〜479話",
+          "arc": "死神代行消失篇",
+          "description": "力を失った一護はXcutionと出会い、戦いに復帰しようとする中でFullbringを開花させます。このアークでは、最初の代行Soul ReaperとしてのKugo Ginjoの過去が明らかになります。"
+        },
+        {
+          "volume": "第55〜74巻",
+          "chapters": "第480〜686話",
+          "arc": "千年血戦篇",
+          "description": "YhwachとWandenreichがSoul Societyに侵攻し、Soul ReaperたちはQuincy、そして彼らの世界の隠された歴史と対峙することを余儀なくされます。"
+        },
+        {
+          "volume": "第74巻",
+          "chapters": "第675〜686話",
+          "arc": "千年血戦篇 フィナーレ",
+          "description": "最終巻ではYhwachとの戦いが決着し、数年後のキャラクターたちとその子供たちの姿を描いたエピローグで締めくくられます。"
+        },
+        {
+          "volume": "第1〜74巻",
+          "chapters": "第1〜686話",
+          "arc": "全シリーズ",
+          "description": "Bleachの漫画全編は、全74巻と686のナンバリングされた章に及び、Ichigo Kurosakiのオリジナルの旅路のすべてを網羅しています。"
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "よくある",
+    "titleHighlight": "質問",
+    "subtitle": "BLEACH Mirrors HighとBleachの世界について知っておくべきすべてのこと。",
+    "questions": [
+      {
+        "question": "BLEACH Mirrors Highとは何ですか？",
+        "answer": "BLEACH Mirrors Highは、Tite KuboによるBleachのアニメとマンガに特化したファンメイドのウィキおよびリソースハブであり、キャラクター、Zanpakuto、ストーリーアーク、勢力、能力、バトル、エピソード、マンガの章を網羅しています。"
+      },
+      {
+        "question": "BLEACH Mirrors HighはBleachの公式サイトですか？",
+        "answer": "いいえ。BLEACH Mirrors Highは非公式のファンリソースであり、Tite Kubo、Shueisha、Studio Pierrot、またはVIZ Mediaとは提携していません。すべてのBleachの権利はそれぞれの所有者に帰属します。"
+      },
+      {
+        "question": "Bleachの主人公は誰ですか？",
+        "answer": "Bleachの主人公はIchigo Kurosakiです。彼はRukia Kuchikiから力を受け取った後、死神代行であるSoul Reaperとなった少年です。BLEACH Mirrors Highでは、彼の始まりから終わりまでの全行程を網羅しています。"
+      },
+      {
+        "question": "Bleachのマンガは何巻、何話ありますか？",
+        "answer": "Tite KuboによるBleachのマンガは全74巻、686話で構成されており、BLEACH Mirrors Highで詳しく解説している千年血戦篇で完結します。"
+      },
+      {
+        "question": "BleachにおけるZanpakutoとは何ですか？",
+        "answer": "ZanpakutoはBleachにおけるSoul Reaperの象徴的な刀であり、独自の名前と意志を持ち、ShikaiやBankaiの形態に解放することができます。BLEACH Mirrors Highでは、最も象徴的なZanpakutoとその所有者をカタログ化しています。"
+      },
+      {
+        "question": "Bleachを公式に視聴または読むにはどこに行けばよいですか？",
+        "answer": "公式のアニメサイトやVIZ Mediaを通じて、公式のBleachリリースを追うことができます。BLEACH Mirrors Highは、オリジナルのクリエイターをサポートできるよう、これらの公式ソースへのリンクを提供しています。"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Bleachコミュニティに参加する",
+    "description": "他のBleachファンと一緒に、キャラクターガイド、Zanpakutoの伝承、アークの解説、バトルの分析に飛び込みましょう。",
+    "joinCommunity": "Redditに参加",
+    "joinGame": "VIZで読む"
+  },
+  "footer": {
+    "title": "BLEACH Mirrors High ウィキ",
+    "description": "Bleachのキャラクター、Zanpakuto、ストーリーアーク、Soul Reapers、Hollows、能力、バトル、エピソード、マンガガイドのための完全なリソースハブです。",
+    "resources": "リソース",
+    "community": "コミュニティ",
+    "legal": "法的事項",
+    "reddit": "Reddit",
+    "twitter": "X / Twitter",
+    "officialSite": "公式アニメサイト",
+    "vizMedia": "VIZ Media",
+    "about": "サイトについて",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "copyrightNotice": "著作権",
+    "copyright": "© 2026 BLEACH Mirrors High Wiki. Tite Kubo、Shueisha、Studio Pierrot、またはVIZ Mediaとは提携していません。",
+    "disclaimer": "非公式のファンメイドリソースウェブサイト。"
+  },
+  "pages": {
+    "guide": {
+      "title": "Bleach ガイド",
+      "description": "2026年のフィラーリスト、エピソード数、ストーリーアーク、視聴順、アニメの全シーズンを配信しているプラットフォームを含む、完全な Bleach 視聴ガイド。",
+      "metaTitle": "Bleach ガイド - フィラーリスト、視聴順＆ストーリーアーク",
+      "metaDescription": "完全なガイドで Bleach アニメをマスター：2026年のフィラーリスト、おすすめの視聴順、エピソード数、ストーリーアークの解説、配信プラットフォーム。",
+      "categoryLabel": "ガイド",
+      "whatIs": "Bleach 視聴ガイド",
+      "whatIsDescription": "オリジナルの366話から続編の「千年血戦篇」まで、Bleach アニメ全体をナビゲートするためのステップバイステップのコンパニオンガイド。厳選されたフィラーリスト、視聴順、アークの解説付き。",
+      "why": "これらのガイドを利用する理由",
+      "whySteps": {
+        "step1Title": "フィラーをスキップする",
+        "step1Description": "オリジナル放送のすべてのフィラーエピソードを特定し、勢いを失うことなく本編のストーリーだけを追うことができます。",
+        "step2Title": "正しい順序で視聴する",
+        "step2Description": "映画、OVA、そして「千年血戦篇」の続編をストーリー上の正しい位置に配置した、おすすめの視聴順序に従ってください。",
+        "step3Title": "すべてのストーリーアークを理解する",
+        "step3Description": "Soul Society 救出任務から Hueco Mundo、そして最後の血戦まで、各ストーリーアークの簡潔な解説を入手できます。"
+      },
+      "featured": "おすすめのガイド",
+      "all": "すべてのガイド"
+    },
+    "characters": {
+      "title": "Bleach キャラクター",
+      "description": "Ichigo Kurosaki、Soul Reapers、Arrancar、Quincy、およびすべてのアークにおけるその他の主要な Bleach キャラクターの詳細なプロフィール。",
+      "metaTitle": "Bleach キャラクター - Soul Reapers, Arrancar, Quincy プロフィール",
+      "metaDescription": "身元、所属、経歴、人間関係、能力、Zanpakuto、傷跡、そして主要なストーリー展開を網羅した、完全な Bleach キャラクタープロフィールを探索しましょう。",
+      "categoryLabel": "キャラクター",
+      "whatIs": "Bleach キャラクター",
+      "whatIsDescription": "Bleach のヒーロー、隊長、味方、敵対者の身元、所属、経歴、人間関係、能力を網羅した包括的なキャラクタープロフィール。",
+      "why": "キャラクタープロフィールを読む理由",
+      "whySteps": {
+        "step1Title": "能力と成長を追跡する",
+        "step1Description": "すべてのアークにおける各キャラクターの Zanpakuto の解放、Bankai の達成、そして能力の進化を追跡します。",
+        "step2Title": "動機を理解する",
+        "step2Description": "Aizen、Yoruichi、および Gotei 13 の隊長たちのような主要な登場人物を動かす背景やライバル関係を読み解きます。",
+        "step3Title": "すべての勢力をマッピングする",
+        "step3Description": "各キャラクターの同盟やライバル関係を通じて、Soul Reapers、Visored、Arrancar、および Quincy がどのように繋がっているかを確認します。"
+      },
+      "featured": "注目のキャラクター",
+      "all": "すべてのキャラクター"
+    },
+    "tybw": {
+      "title": "Bleach: 千年血戦篇",
+      "description": "パート4「The Calamity」の放送日、トレーラー、クールごとの解説など、アニメ続編『Bleach 千年血戦篇』のすべてをお届けします。",
+      "metaTitle": "Bleach 千年血戦篇 - TYBW パート4 ＆ The Calamity",
+      "metaDescription": "Bleach 千年血戦篇を完全網羅：パート4「The Calamity」の放送日、トレーラー、エピソードガイド、そして最終章のクールごとの解説。",
+      "categoryLabel": "TYBW",
+      "whatIs": "千年血戦篇",
+      "whatIsDescription": "Tite Kuboの原作漫画の最終章を描く、大人気アニメの続編。死神たちと、Yhwach率いる滅却師（クインシー）の「見えざる帝国（ヴァンデンライヒ）」による、三界の存亡をかけた戦い。",
+      "why": "Why Follow TYBW",
+      "whySteps": {
+        "step1Title": "パート4のリリース情報を追う",
+        "step1Description": "「The Calamity」のクールスケジュール、放送日、そして公開される最終トレーラーの最新情報を常にチェックしましょう。",
+        "step2Title": "新たな卍解の公開をチェック",
+        "step2Description": "Studio PierrotとTite Kuboがアニメ化のために特別に描き下ろした、新たな卍解や追加の設定を体験しましょう。",
+        "step3Title": "最終決戦を理解する",
+        "step3Description": "滅却師（クインシー）の侵攻、霊王の真実、そして物語の結末へと向かうクライマックスの戦いを追う。"
+      },
+      "featured": "注目のTYBW特集",
+      "all": "すべてのTYBW特集"
+    },
+    "lore": {
+      "title": "Bleach Lore",
+      "description": "Bleachのストーリーや設定を深く掘り下げます。霊王、Zanpakutoと卍解、クインシー、アランカル、エスパーダ、ホロウ、そして地獄篇などをご紹介。",
+      "metaTitle": "Bleachの設定 - 霊王、卍解、クインシー、アランカル＆ホロウ",
+      "metaDescription": "Bleachの設定と世界観を探索：霊王、Zanpakutoと卍解の仕組み、クインシー対アランカルの勢力、エスパーダの階級、ホロウの種類、傷ついた世界、そして地獄篇。",
+      "categoryLabel": "LORE",
+      "whatIs": "Bleachの設定と世界観",
+      "whatIsDescription": "霊的解剖学やZanpakutoの仕組みから、世界を形作る勢力、階級、宇宙構造に至るまで、Bleachの背後にある世界観を深く探求します。",
+      "why": "設定を深く知るべき理由",
+      "whySteps": {
+        "step1Title": "能力システムを極める",
+        "step1Description": "Zanpakutoの解放、卍解、帰刃（レスレクシオン）、完聖体（フォルシュテンディッヒ）を理解し、各勢力の力がどのように拮抗しているかを把握しましょう。",
+        "step2Title": "勢力と階級を解読する",
+        "step2Description": "護廷十三隊の構成、エスパーダの数字（ナンバー）、星十字騎士団（シュテルンリッター）の聖文字（シュリフト）、そして仮面の軍勢（ヴァイザード）の正体を学びましょう。",
+        "step3Title": "世界の秘密を暴く",
+        "step3Description": "霊王の真実、三界の調和、そして禁忌とされる地獄の次元を明らかにします。"
+      },
+      "featured": "Featured Lore",
+      "all": "All Lore"
+    },
+    "games": {
+      "title": "Bleach ゲーム",
+      "description": "BLEACH Mirrors High、Soul Resonance、Brave Souls、Rebirth of Souls を含むすべての Bleach ゲームのガイド。ティアリストやリリース情報も掲載。",
+      "metaTitle": "Bleach ゲーム - BLEACH Mirrors High、Soul Resonance ほか",
+      "metaDescription": "Bleach ゲーム完全ガイド：BLEACH Mirrors High のリリース・ベータ情報、Soul Resonance のティアリスト、Brave Souls の攻略、Rebirth of Souls のウォークスルー。",
+      "categoryLabel": "ゲーム",
+      "whatIs": "Bleach ビデオゲーム",
+      "whatIsDescription": "最新作 BLEACH Mirrors High から、Brave Souls や Soul Resonance などのモバイルヒット作、Rebirth of Souls などのコンソール格闘ゲームまで、あらゆるプラットフォームの Bleach を網羅。",
+      "why": "これらのゲームガイドを利用する理由",
+      "whySteps": {
+        "step1Title": "BLEACH Mirrors High を追跡",
+        "step1Description": "新作の高精度な Bleach アクションタイトルのリリース日、ベータフェーズ、プラットフォーム、ゲームプレイ機能をチェック。",
+        "step2Title": "最強チームを編成",
+        "step2Description": "Soul Resonance のティアリストや Brave Souls のユニットガイドを活用して、全モードでトップクラスの編成を構築。",
+        "step3Title": "戦闘システムをマスター",
+        "step3Description": "Rebirth of Souls やその他の格闘ゲームのメカニクスを学び、すべてのバトルとミッションで勝利を掴もう。"
+      },
+      "featured": "注目のゲーム",
+      "all": "すべてのゲーム"
+    },
+    "codes": {
+      "title": "Bleach ゲームコード",
+      "description": "Soul Resonance などの Bleach モバイルゲームで使える最新の引き換えコード。無料召喚、プレミアム通貨、報酬を定期的に更新。",
+      "metaTitle": "Bleach ゲームコード - Soul Resonance 有効なコードと報酬",
+      "metaDescription": "Soul Resonance やその他のタイトルの最新の有効な Bleach ゲームコードを引き換えて、無料召喚、プレミアム通貨、限定報酬を手に入れよう。",
+      "categoryLabel": "コード",
+      "whatIs": "Bleach ゲームコード",
+      "whatIsDescription": "無料のプレミアム通貨、召喚、強化素材、期間限定報酬を獲得できる、Bleach モバイルゲームの厳選された最新引き換えコード。",
+      "why": "これらのコードを引き換える理由",
+      "whySteps": {
+        "step1Title": "無料通貨を獲得",
+        "step1Description": "課金せずにプレミアムジェムやコインを獲得し、より多くのキャラクターを召喚して進行を早めよう。",
+        "step2Title": "限定報酬を受け取る",
+        "step2Description": "有効なコードでのみ入手可能な期間限定ユニット、スキン、強化素材をアンロック。",
+        "step3Title": "最新情報をチェック",
+        "step3Description": "ゲームのパッチが配信されるたびに更新される、新着コードや期限切れコードの削除情報をこのページでブックマーク。"
+      },
+      "featured": "注目のコード",
+      "all": "すべてのコード"
+    },
+    "movies": {
+      "title": "Bleach 映画",
+      "description": "2026年の新作映画、実写版、そして「Memories of Nobody」などのクラシックなアニメ映画を含む、Bleach 映画の完全ガイド。",
+      "metaTitle": "Bleach 映画 - 2026年新作、実写版、アニメ映画ガイド",
+      "metaDescription": "すべての Bleach 映画を網羅：2026年公開予定の新作、実写版、そして「Memories of Nobody」などのクラシックなアニメ映画のあらすじ、正史（カノン）の状態、視聴方法を紹介。",
+      "categoryLabel": "映画",
+      "whatIs": "Bleach 映画",
+      "whatIsDescription": "2026年公開予定の劇場版から、実写版、そしてクラシックなアニメ映画のカタログまで、すべての Bleach 映画を網羅した完全なライブラリ。",
+      "why": "なぜ映画をチェックするのか",
+      "whySteps": {
+        "step1Title": "2026年の映画を追う",
+        "step1Description": "最新の Bleach 劇場版映画の公開日、予告編、キャスト、正史（カノン）での位置付けをチェック。",
+        "step2Title": "正史（カノン）の状態を判断する",
+        "step2Description": "どのアニメ映画や実写版がメインストーリーに適合し、どれがサイドストーリーなのかを確認。",
+        "step3Title": "名作を発見する",
+        "step3Description": "「Memories of Nobody」などのファンに人気の名作を、あらすじや配信情報の詳細とともに再確認。"
+      },
+      "featured": "注目の映画",
+      "all": "すべての映画"
+    }
   }
 }
