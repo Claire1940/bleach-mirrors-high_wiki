@@ -28,6 +28,16 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
 
+  // Bleach 主题图标
+  Sword: LucideIcons.Sword,
+  Swords: LucideIcons.Swords,
+  Route: LucideIcons.Route,
+  Flag: LucideIcons.Flag,
+  Clapperboard: LucideIcons.Clapperboard,
+  Scroll: LucideIcons.Scroll,
+  Zap: LucideIcons.Zap,
+  Tv: LucideIcons.Tv,
+
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,

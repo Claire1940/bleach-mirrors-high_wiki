@@ -30,8 +30,8 @@
     "badge": "Legendary Supernatural Shonen Anime",
     "title": "BLEACH Mirrors High Wiki",
     "description": "Follow Ichigo Kurosaki as he becomes a Soul Reaper, masters his Zanpakuto, battles Hollows and protects the worlds of the living and the dead.",
-    "getFreeCodesCTA": "Read Guides",
-    "playOnSteamCTA": "Visit Official Site",
+    "getFreeCodesCTA": "Explore Guides",
+    "playOnSteamCTA": "Official Anime Site",
     "stats": {
       "stat1": {
         "value": "74",
@@ -52,696 +52,511 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Bleach Anime and Manga Hub",
+    "description": "Explore the complete Bleach universe by Tite Kubo — characters, Zanpakuto, story arcs, factions, abilities, iconic battles, episode guides, and the original manga collected in one place."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "BLEACH Mirrors High",
+    "titleHighlight": "Guides",
+    "subtitle": "Everything you need to explore Bleach characters, Zanpakuto, story arcs, factions, abilities, and battles.",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "icon": "Users",
+        "title": "Bleach Characters",
+        "description": "Ichigo, Soul Reapers, Arrancar, Quincy, and more"
+      },
+      {
+        "icon": "Sword",
+        "title": "Bleach Zanpakuto",
+        "description": "Shikai, Bankai, wielders, and abilities"
+      },
+      {
+        "icon": "Route",
+        "title": "Bleach Arcs",
+        "description": "Full timeline from Substitute Soul Reaper to Blood War"
+      },
+      {
+        "icon": "Flag",
+        "title": "Bleach Factions",
+        "description": "Gotei 13, Espada, Visored, Quincy, Wandenreich"
       },
       {
         "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "title": "Bleach Abilities",
+        "description": "Kido, Cero, Hierro, Fullbring, and Quincy powers"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "Swords",
+        "title": "Bleach Battles",
+        "description": "Ichigo vs Aizen, Ulquiorra, Yhwach, and more"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "Clapperboard",
+        "title": "Bleach Episodes",
+        "description": "Canon, filler, and watch order guide"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "BookOpen",
+        "title": "Bleach Manga",
+        "description": "Volumes, chapters, and anime vs manga changes"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
-      "steps": [
-        {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
-        },
-        {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
-        },
-        {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
-        },
-        {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
-        }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
-      ]
-    },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
-        {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
-        },
-        {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
-        },
-        {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
-        },
-        {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+    "bleachCharacters": {
+      "title": "BLEACH Mirrors High Characters",
+      "eyebrow": "Character Guide",
+      "intro": "Bleach follows a large cast of warriors whose loyalties, abilities, and personal histories influence the balance of the spiritual world. These character cards introduce the main heroes, captains, allies, and antagonists.",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "name": "Ichigo Kurosaki",
+          "role": "Substitute Soul Reaper",
+          "affiliation": "Karakura Town Allies",
+          "description": "A human who gains Soul Reaper powers from Rukia Kuchiki. He repeatedly enters spiritual conflicts to protect his family, friends, and both the Human World and Soul Society."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "name": "Rukia Kuchiki",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13, Squad 13",
+          "description": "The Soul Reaper who transfers her powers to Ichigo at the beginning of the story. She later becomes a powerful officer and eventually the captain of Squad 13."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "name": "Renji Abarai",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13, Squad 6",
+          "description": "The lieutenant of Squad 6 and Rukia's childhood friend. Renji begins as Ichigo's opponent but becomes one of his most dependable allies."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "name": "Byakuya Kuchiki",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13, Squad 6",
+          "description": "The captain of Squad 6 and head of the noble Kuchiki Clan. His strict devotion to Soul Society law gradually changes through his encounters with Ichigo and Rukia."
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
+          "name": "Toshiro Hitsugaya",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13, Squad 10",
+          "description": "A young prodigy who serves as captain of Squad 10. He commands Hyorinmaru, one of the most powerful ice-type Zanpakuto."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
+          "name": "Kenpachi Zaraki",
+          "role": "Soul Reaper",
+          "affiliation": "Gotei 13, Squad 11",
+          "description": "The battle-loving captain of Squad 11 and holder of the Kenpachi title. He relies on immense spiritual pressure, physical strength, and an instinctive desire to fight powerful opponents."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
+          "name": "Sosuke Aizen",
+          "role": "Soul Reaper",
+          "affiliation": "Former Gotei 13, Arrancar Army",
+          "description": "The former captain of Squad 5 who secretly manipulates events throughout Soul Society. He seeks to transcend the limits separating Soul Reapers, Hollows, and the Soul King."
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "name": "Ulquiorra Cifer",
+          "role": "Arrancar",
+          "affiliation": "Espada",
+          "description": "The Fourth Espada in Aizen's army and one of Ichigo's most dangerous opponents. His calm, emotionless outlook is challenged through his interactions with Orihime."
+        },
+        {
+          "name": "Gin Ichimaru",
+          "role": "Soul Reaper",
+          "affiliation": "Former Gotei 13, Aizen's Army",
+          "description": "The former captain of Squad 3 who follows Aizen while hiding his true intentions. His constant smile and deceptive behavior make his loyalties difficult to understand."
+        },
+        {
+          "name": "Yoruichi Shihoin",
+          "role": "Soul Reaper",
+          "affiliation": "Former Squad 2, Urahara Shop Allies",
+          "description": "The former captain of Squad 2 and former commander of the Onmitsukido. She is a master of hand-to-hand combat, stealth, and high-speed movement."
+        },
+        {
+          "name": "Uryu Ishida",
+          "role": "Quincy",
+          "affiliation": "Karakura Town Allies, Ishida Family",
+          "description": "A skilled Quincy archer and one of Ichigo's closest allies. His Quincy heritage places him at the center of the final conflict with the Wandenreich."
+        },
+        {
+          "name": "Orihime Inoue",
+          "role": "Human",
+          "affiliation": "Karakura Town Allies",
+          "description": "Ichigo's classmate and a wielder of the Shun Shun Rikka. Her abilities can reject harmful events, allowing her to heal injuries, create barriers, and protect her companions."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
+    "bleachZanpakuto": {
+      "title": "BLEACH Mirrors High Zanpakuto",
+      "eyebrow": "Weapon Guide",
+      "intro": "A Zanpakuto reflects the soul of its wielder and possesses its own name and spirit. By communicating with that spirit, a Soul Reaper can unlock Shikai and eventually the far more powerful Bankai.",
       "items": [
         {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
+          "name": "Zangetsu",
+          "wielder": "Ichigo Kurosaki",
+          "shikai": "A permanently released oversized blade that channels Ichigo's spiritual power into attacks such as Getsuga Tensho.",
+          "bankai": "Its Bankai is Tensa Zangetsu, which compresses Ichigo's power into a smaller blade and greatly increases his speed and combat performance."
         },
         {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
+          "name": "Sode no Shirayuki",
+          "wielder": "Rukia Kuchiki",
+          "shikai": "Uses a series of dances to freeze targets, create paths of ice, and lower temperatures around the blade.",
+          "bankai": "Hakka no Togame drastically lowers Rukia's body temperature and freezes everything within its effective area."
         },
         {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
+          "name": "Zabimaru",
+          "wielder": "Renji Abarai",
+          "shikai": "Transforms into a segmented blade that can extend like a whip and strike enemies from a distance.",
+          "bankai": "So-oh Zabimaru creates massive skeletal and baboon-like components that deliver powerful physical and spiritual attacks."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
+          "name": "Senbonzakura",
+          "wielder": "Byakuya Kuchiki",
+          "shikai": "Separates its blade into countless tiny blades that resemble drifting cherry blossom petals.",
+          "bankai": "Senbonzakura Kageyoshi summons enormous blades that divide into millions of controllable fragments and can form several specialized attack modes."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
+          "name": "Kyoka Suigetsu",
+          "wielder": "Sosuke Aizen",
+          "shikai": "Places anyone who witnesses its release under Complete Hypnosis, allowing Aizen to manipulate all five senses.",
+          "bankai": "Unknown"
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
+          "name": "Hyorinmaru",
+          "wielder": "Toshiro Hitsugaya",
+          "shikai": "Creates and controls large quantities of ice and water, often taking the form of an ice dragon.",
+          "bankai": "Daiguren Hyorinmaru forms ice wings, claws, and a tail. Its mature state can freeze both physical matter and the functions of affected objects."
         },
         {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
+          "name": "Katen Kyokotsu",
+          "wielder": "Shunsui Kyoraku",
+          "shikai": "Turns children's games into real combat rules that affect everyone participating within its range.",
+          "bankai": "Katen Kyokotsu: Karamatsu Shinju traps nearby opponents in a four-act tragedy involving shared wounds, illness, drowning, and a final severing attack."
         },
         {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
+          "name": "Ryujin Jakka",
+          "wielder": "Genryusai Yamamoto",
+          "shikai": "Produces overwhelming flames capable of burning large areas and reducing targets to ash.",
+          "bankai": "Zanka no Tachi concentrates its flames into the blade and grants four directional abilities involving extreme heat, destructive contact, defense, and the corpses of previous victims."
         },
         {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
+          "name": "Minazuki",
+          "wielder": "Retsu Unohana",
+          "shikai": "Transforms into a large flying creature that transports injured allies and heals them inside its body.",
+          "bankai": "Minazuki releases a blood-like liquid around Unohana and her sword during close-range combat. Its exact mechanics are not fully explained."
         },
         {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
+          "name": "Nozarashi",
+          "wielder": "Kenpachi Zaraki",
+          "shikai": "Transforms into a huge axe-like blade with enough cutting power to destroy enormous objects and heavily armored opponents.",
+          "bankai": "Turns Kenpachi into a red-skinned berserker with drastically increased strength and cutting power, although he initially struggles to control it."
         },
         {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
+          "name": "Sogyo no Kotowari",
+          "wielder": "Jushiro Ukitake",
+          "shikai": "Splits into two blades connected by a cord and talismans, allowing Ukitake to absorb and redirect energy attacks.",
+          "bankai": "Unknown"
         }
       ]
     },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
-        },
-        {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
-        },
-        {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
-        {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
-        },
-        {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
-        },
-        {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
-        },
-        {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
-        },
-        {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
-        },
-        {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
-        },
-        {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
-        },
-        {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+    "bleachArcs": {
+      "title": "BLEACH Mirrors High Arcs",
+      "eyebrow": "Story Timeline",
+      "intro": "The Bleach storyline expands from supernatural incidents in Karakura Town into wars involving Soul Society, Hueco Mundo, and the Quincy empire. This timeline presents the major canonical arcs in narrative order.",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "title": "Substitute Soul Reaper Arc",
+          "description": "Ichigo Kurosaki receives Soul Reaper powers from Rukia Kuchiki and begins protecting Karakura Town from Hollows. He meets spiritually aware allies including Orihime Inoue, Yasutora Sado, and Quincy archer Uryu Ishida."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "title": "Soul Society Arc",
+          "description": "Rukia is arrested and sentenced to execution for transferring her powers to a human. Ichigo and his friends invade Soul Society, battle members of the Gotei 13, and uncover Sosuke Aizen's hidden conspiracy."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "title": "Arrancar: The Arrival Arc",
+          "description": "Aizen creates an army of Arrancar using the Hogyoku and sends them to attack the Human World. Ichigo struggles to control his inner Hollow while training with the Visored."
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "title": "Hueco Mundo Arc",
+          "description": "Orihime is taken to Aizen's fortress in Hueco Mundo, prompting Ichigo, Uryu, and Chad to launch a rescue mission. They fight numerous Arrancar and Espada while advancing through Las Noches."
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "title": "Turn Back the Pendulum Arc",
+          "description": "A flashback reveals the events that occurred more than a century earlier in Soul Society. It explains how Aizen's Hollowfication experiments transformed several captains and lieutenants into the Visored."
+        },
+        {
+          "title": "Fake Karakura Town Arc",
+          "description": "The Gotei 13 confronts Aizen, Gin, Tosen, and the remaining Espada in a replica of Karakura Town. Ichigo ultimately undergoes intense training to gain the power needed for his decisive battle with Aizen."
+        },
+        {
+          "title": "Lost Agent Arc",
+          "description": "After losing his Soul Reaper abilities, Ichigo meets Kugo Ginjo and the Fullbringer organization Xcution. Their promise to restore his powers develops into a conflict involving stolen Fullbring abilities and Ginjo's past."
+        },
+        {
+          "title": "Thousand-Year Blood War Arc",
+          "description": "Yhwach and the Wandenreich invade Soul Society, steal Bankai, and declare war on the Soul Reapers. Ichigo discovers the truth about his heritage as the conflict expands to the Soul King Palace and threatens the structure of all worlds."
+        }
+      ]
+    },
+    "bleachFactions": {
+      "title": "BLEACH Mirrors High Factions",
+      "eyebrow": "Faction Guide",
+      "intro": "Bleach's conflicts are driven by organizations with competing ideas about justice, survival, revenge, and the balance of souls. Some defend the established spiritual order, while others seek to destroy or replace it.",
+      "items": [
+        {
+          "name": "Gotei 13",
+          "leader": "Genryusai Yamamoto; later Shunsui Kyoraku",
+          "description": "The thirteen military divisions responsible for protecting Soul Society and maintaining the balance between worlds. Each squad is commanded by a captain and usually specializes in a particular style of duty or combat."
+        },
+        {
+          "name": "Espada",
+          "leader": "Sosuke Aizen",
+          "description": "The ten highest-ranking Arrancar in Aizen's army, numbered according to their spiritual power. They rule over lesser Arrancar and fight to support Aizen's plan to overthrow the existing order."
+        },
+        {
+          "name": "Visored",
+          "leader": "Shinji Hirako (de facto)",
+          "description": "Former Soul Reaper captains and lieutenants who gained Hollow powers through Aizen's experiments. They initially live in exile but later help Ichigo control his inner Hollow and oppose Aizen."
+        },
+        {
+          "name": "Quincy",
+          "leader": "Yhwach",
+          "description": "Spiritually aware humans who destroy Hollows using weapons formed from gathered spiritual particles. Their method of completely erasing Hollows threatens the balance of souls and historically brings them into conflict with the Soul Reapers."
+        },
+        {
+          "name": "Wandenreich",
+          "leader": "Yhwach",
+          "description": "A hidden Quincy empire that survives in the shadows of Soul Society and prepares for a thousand-year revenge campaign. Its Sternritter invade Soul Society, steal Bankai, and attempt to reshape the worlds under Yhwach's rule."
+        },
+        {
+          "name": "Xcution",
+          "leader": "Kugo Ginjo",
+          "description": "An organization of Fullbringers who claim they want to remove their powers and become ordinary humans. Ginjo instead uses the group to manipulate Ichigo and steal the Fullbring-enhanced Soul Reaper power he develops."
+        },
+        {
+          "name": "Fullbringers",
+          "leader": "Various",
+          "description": "Humans capable of manipulating the souls contained within physical objects. Their powers usually develop after their mothers survive Hollow attacks, but Fullbringers do not belong to one unified organization or share a single goal."
+        }
+      ]
+    },
+    "bleachAbilities": {
+      "title": "BLEACH Mirrors High Abilities",
+      "eyebrow": "Combat Systems",
+      "intro": "Bleach features several interconnected power systems based on spiritual energy, race, training, and personal weapons. These abilities range from formal Soul Reaper spells to instinctive Hollow attacks and specialized Quincy defenses.",
+      "items": [
+        {
+          "name": "Kido",
+          "type": "Soul Reaper Spell",
+          "description": "Kido is the Soul Reapers' system of spiritual spells, activated through incantations and numbered techniques. Hado spells focus on destruction, while Bakudo spells restrain, defend, track, or seal targets; masters such as Tessai, Hachigen, and Aizen can use advanced Kido with reduced or omitted incantations."
+        },
+        {
+          "name": "Cero",
+          "type": "Hollow Power",
+          "description": "Cero is a concentrated blast of spiritual energy commonly fired by Menos Hollows and Arrancar. Its power, speed, color, and firing point vary by user, with stronger variants including Gran Rey Cero and Cero Oscuras."
+        },
+        {
+          "name": "Hierro",
+          "type": "Arrancar Defense",
+          "description": "Hierro hardens an Arrancar's skin by concentrating spiritual energy throughout the body. Its durability differs between individuals, with fighters such as Nnoitra Gilga possessing exceptionally strong Hierro."
+        },
+        {
+          "name": "Hollowfication",
+          "type": "Hollow Power",
+          "description": "Hollowfication grants Hollow characteristics and power to a Soul Reaper, often producing a mask and a major increase in speed, strength, and spiritual pressure. Ichigo and the Visored use controlled forms of this power, although losing control can trigger a more complete Hollow transformation."
+        },
+        {
+          "name": "Bankai",
+          "type": "Zanpakuto Release",
+          "description": "Bankai is the second and final release of a Soul Reaper's Zanpakuto, normally requiring years of training to achieve and master. Each Bankai reflects its user's spirit and can dramatically transform the weapon, surroundings, or wielder's combat abilities."
+        },
+        {
+          "name": "Getsuga Tensho",
+          "type": "Zanpakuto Technique",
+          "description": "Getsuga Tensho is Ichigo Kurosaki's signature technique, releasing condensed spiritual energy from Zangetsu as a powerful crescent-shaped attack. Ichigo can use different forms of it through his Shikai, Bankai, Hollow-enhanced state, and later dual-blade powers."
+        },
+        {
+          "name": "Shunpo",
+          "type": "Soul Reaper Movement",
+          "description": "Shunpo is a Soul Reaper high-speed movement technique that allows the user to cross distances faster than ordinary vision can follow. Yoruichi Shihoin, Soi Fon, and Byakuya Kuchiki are among its most accomplished practitioners."
+        },
+        {
+          "name": "Sonido",
+          "type": "Arrancar Movement",
+          "description": "Sonido is the Arrancar equivalent of high-speed movement and often produces a distinctive sound when used. Skilled Arrancar can use it to evade attacks, create afterimages, and reposition before an opponent can react."
+        },
+        {
+          "name": "Hirenkyaku and Blut Vene",
+          "type": "Quincy Technique",
+          "description": "Hirenkyaku lets Quincy travel rapidly by riding currents of spiritual particles beneath their feet. Blut Vene directs spiritual energy through the user's blood vessels to greatly increase defense, while its offensive counterpart, Blut Arterie, strengthens attacks."
+        },
+        {
+          "name": "Fullbring",
+          "type": "Human Ability",
+          "description": "Fullbring allows spiritually aware humans to manipulate the soul contained within physical matter. Each Fullbringer develops a personal ability connected to an emotionally significant object, such as Ginjo's Substitute Soul Reaper badge or Tsukishima's bookmark."
+        }
+      ]
+    },
+    "bleachBattles": {
+      "title": "BLEACH Mirrors High Battles",
+      "eyebrow": "Iconic Fights",
+      "intro": "Bleach battles combine swordsmanship, evolving transformations, tactical abilities, and personal conflicts. These major fights introduce defining techniques, resolve long-running rivalries, and determine the outcome of entire story arcs.",
+      "items": [
+        {
+          "name": "Ichigo vs Byakuya",
+          "arc": "Soul Society Arc",
+          "description": "Ichigo confronts Byakuya at Sokyoku Hill and reveals his newly achieved Bankai, Tensa Zangetsu. After Ichigo's inner Hollow briefly takes control, the two fighters exchange final attacks and Byakuya concedes defeat."
+        },
+        {
+          "name": "Ichigo vs Ulquiorra",
+          "arc": "Arrancar Arc",
+          "description": "Ulquiorra overwhelms Ichigo with his second Resurreccion and leaves him near death in Las Noches. Ichigo then transforms into a powerful uncontrolled Hollow form, defeats Ulquiorra, and regains awareness shortly before Ulquiorra disintegrates."
+        },
+        {
+          "name": "Ichigo vs Aizen",
+          "arc": "Arrancar Arc",
+          "description": "After training in the Dangai, Ichigo returns with power far beyond Aizen's evolved forms. He uses the Final Getsuga Tensho and Mugetsu to weaken Aizen, allowing Kisuke Urahara's hidden Kido seal to imprison him."
+        },
+        {
+          "name": "Ichigo vs Ginjo",
+          "arc": "Lost Agent Arc",
+          "description": "Ichigo regains his Soul Reaper powers with help from the Gotei 13 and battles Kugo Ginjo in their Bankai forms. Ichigo defeats Ginjo, but later recognizes the loneliness and resentment that drove the former Substitute Soul Reaper."
+        },
+        {
+          "name": "Kenpachi vs Nnoitra",
+          "arc": "Arrancar Arc",
+          "description": "Nnoitra's durable Hierro and six-armed Resurreccion initially withstand Kenpachi's attacks. Kenpachi eventually uses two-handed kendo, delivers a devastating strike, and defeats the Fifth Espada."
+        },
+        {
+          "name": "Yamamoto vs Wonderweiss",
+          "arc": "Fake Karakura Town Arc",
+          "description": "Wonderweiss is revealed to have been modified specifically to seal the flames of Ryujin Jakka. Yamamoto destroys him with his bare hands, survives the resulting explosion, and uses Hado 96 against Aizen, although Aizen escapes the attack."
+        },
+        {
+          "name": "Shunsui vs Starrk",
+          "arc": "Fake Karakura Town Arc",
+          "description": "Shunsui battles Coyote Starrk using Katen Kyokotsu's dangerous children's games while several other fighters enter the conflict. Shunsui ultimately exploits the rules of his Shikai and lands the decisive strike against the First Espada."
+        },
+        {
+          "name": "Byakuya vs Tsukishima",
+          "arc": "Lost Agent Arc",
+          "description": "Tsukishima uses Book of the End to insert himself into Byakuya's past and learn every established technique. Byakuya rejects that emotional manipulation and kills him with a close-range attack formed from scattered Senbonzakura petals."
+        },
+        {
+          "name": "Rukia vs Aaroniero",
+          "arc": "Arrancar Arc",
+          "description": "Aaroniero uses Kaien Shiba's appearance and memories to destabilize Rukia during their battle in Las Noches. Rukia overcomes her guilt and defeats him by extending Sode no Shirayuki through his head with her third dance."
+        },
+        {
+          "name": "Ichigo vs Yhwach",
+          "arc": "Thousand-Year Blood War Arc",
+          "description": "Yhwach repeatedly uses The Almighty to alter possible futures and neutralize Ichigo's attacks. With assistance from Aizen's illusions and Uryu's Still Silver arrow, Ichigo lands the final strike that defeats the Quincy emperor."
+        }
+      ]
+    },
+    "bleachEpisodes": {
+      "title": "BLEACH Mirrors High Episodes",
+      "eyebrow": "Anime Guide",
+      "intro": "The original Bleach television series contains manga-based episodes, anime-original filler stories, and several ranges that mix both types of material. This guide highlights the largest story sections rather than every individual filler episode.",
+      "items": [
+        {
+          "arc": "Substitute Soul Reaper Arc",
+          "episodes": "Episodes 1-20",
+          "type": "Canon",
+          "description": "Ichigo receives Soul Reaper powers from Rukia, protects Karakura Town, and begins learning about Hollows and the Soul Society."
+        },
+        {
+          "arc": "Soul Society Arc",
+          "episodes": "Episodes 21-63",
+          "type": "Mixed",
+          "description": "Ichigo's group enters the Soul Society to rescue Rukia, leading to battles with the Gotei 13 and the revelation of Aizen's betrayal."
+        },
+        {
+          "arc": "Bount Arc",
+          "episodes": "Episodes 64-109",
+          "type": "Filler",
+          "description": "The anime-original Bount storyline follows immortal humans who consume souls and later invade the Soul Society under Jin Kariya."
+        },
+        {
+          "arc": "Arrancar Arrival and Early Hueco Mundo",
+          "episodes": "Episodes 110-167",
+          "type": "Mixed",
+          "description": "Aizen's Arrancar appear in the Human World, Ichigo trains with the Visored, and Orihime is taken to Hueco Mundo. The range includes some anime-original episodes."
+        },
+        {
+          "arc": "Zanpakuto Rebellion Arc",
+          "episodes": "Episodes 230-265",
+          "type": "Filler",
+          "description": "Muramasa causes numerous Zanpakuto spirits to manifest and rebel against their Soul Reaper masters. The later episodes continue with stories about the remaining manifested spirits."
+        },
+        {
+          "arc": "Arrancar Downfall Arc",
+          "episodes": "Episodes 266-316",
+          "type": "Mixed",
+          "description": "The Hueco Mundo and Fake Karakura Town conflicts reach their climax, ending with Ichigo's final confrontation against Aizen. Several anime-original episodes interrupt the main storyline."
+        },
+        {
+          "arc": "Gotei 13 Invading Army Arc",
+          "episodes": "Episodes 317-342",
+          "type": "Filler",
+          "description": "Artificial copies of Soul Reapers infiltrate the Soul Society while Ichigo's remaining spiritual power continues to fade."
+        },
+        {
+          "arc": "Lost Substitute Soul Reaper Arc",
+          "episodes": "Episodes 343-366",
+          "type": "Canon",
+          "description": "Ichigo meets the Fullbringers of Xcution while searching for a way to regain his powers, culminating in his battle with Kugo Ginjo."
+        }
+      ]
+    },
+    "bleachManga": {
+      "title": "BLEACH Mirrors High Manga",
+      "eyebrow": "Manga Guide",
+      "intro": "Tite Kubo's Bleach manga was collected into 74 volumes containing 686 numbered chapters. The major story arcs sometimes begin or end partway through a collected volume, so some volume ranges overlap at arc boundaries.",
+      "items": [
+        {
+          "volume": "Volume 1",
+          "chapters": "Chapters 1-7",
+          "arc": "Agent of the Shinigami Arc",
+          "description": "Ichigo meets Rukia Kuchiki, becomes a Substitute Soul Reaper, and begins protecting his family and town from Hollows."
+        },
+        {
+          "volume": "Volumes 1-8",
+          "chapters": "Chapters 1-70",
+          "arc": "Agent of the Shinigami Arc",
+          "description": "The opening storyline introduces Ichigo's allies, the Quincy Uryu Ishida, and the events leading to Rukia's arrest."
+        },
+        {
+          "volume": "Volumes 9-21",
+          "chapters": "Chapters 71-182",
+          "arc": "Soul Society Arc",
+          "description": "Ichigo and his friends invade the Soul Society to prevent Rukia's execution. The arc concludes with Aizen revealing his conspiracy and escaping to Hueco Mundo."
+        },
+        {
+          "volume": "Volumes 21-48",
+          "chapters": "Chapters 183-423",
+          "arc": "Arrancar Arc",
+          "description": "Aizen creates an Arrancar army, Orihime is taken to Hueco Mundo, and the conflict expands into the battle over Karakura Town. The storyline ends after Ichigo sacrifices his Soul Reaper powers to defeat Aizen."
+        },
+        {
+          "volume": "Volumes 49-54",
+          "chapters": "Chapters 424-479",
+          "arc": "Lost Agent Arc",
+          "description": "A powerless Ichigo encounters Xcution and develops Fullbring while attempting to return to battle. The arc reveals Kugo Ginjo's history as the first Substitute Soul Reaper."
+        },
+        {
+          "volume": "Volumes 55-74",
+          "chapters": "Chapters 480-686",
+          "arc": "Thousand-Year Blood War Arc",
+          "description": "Yhwach and the Wandenreich invade the Soul Society, forcing the Soul Reapers to confront the Quincy and the hidden history of their world."
+        },
+        {
+          "volume": "Volume 74",
+          "chapters": "Chapters 675-686",
+          "arc": "Thousand-Year Blood War Finale",
+          "description": "The final volume resolves the battle against Yhwach and concludes with an epilogue showing the characters and their children years later."
+        },
+        {
+          "volume": "Volumes 1-74",
+          "chapters": "Chapters 1-686",
+          "arc": "Complete Series",
+          "description": "The full Bleach manga spans 74 collected volumes and 686 numbered chapters, covering Ichigo Kurosaki's complete original journey."
         }
       ]
     }
@@ -749,31 +564,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about BLEACH Mirrors High and the Bleach universe.",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is BLEACH Mirrors High?",
+        "answer": "BLEACH Mirrors High is a fan-made wiki and resource hub dedicated to the Bleach anime and manga by Tite Kubo, covering characters, Zanpakuto, story arcs, factions, abilities, battles, episodes, and manga chapters."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "Is BLEACH Mirrors High an official Bleach website?",
+        "answer": "No. BLEACH Mirrors High is an unofficial fan resource and is not affiliated with Tite Kubo, Shueisha, Studio Pierrot, or VIZ Media. All Bleach rights remain with their respective owners."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "Who is the main character of Bleach?",
+        "answer": "The main character of Bleach is Ichigo Kurosaki, a teenager who becomes a Substitute Soul Reaper after receiving powers from Rukia Kuchiki. BLEACH Mirrors High covers his full journey from beginning to end."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "How many Bleach manga volumes and chapters are there?",
+        "answer": "The Bleach manga by Tite Kubo spans 74 collected volumes and 686 numbered chapters, concluding with the Thousand-Year Blood War arc that BLEACH Mirrors High breaks down in detail."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "What is a Zanpakuto in Bleach?",
+        "answer": "A Zanpakuto is the signature sword of a Soul Reaper in Bleach, with its own name and spirit that can be released into Shikai and Bankai forms. BLEACH Mirrors High catalogs the most iconic Zanpakuto and their wielders."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Where can I watch or read Bleach officially?",
+        "answer": "You can follow official Bleach releases through the official anime site and VIZ Media. BLEACH Mirrors High links to these official sources so you can support the original creators."
       }
     ]
   },
@@ -801,125 +616,93 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
-      "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
+    "characters": {
+      "title": "Bleach Characters",
+      "description": "Detailed profiles for Ichigo Kurosaki, Soul Reapers, Arrancar, Quincy, and other major Bleach characters.",
+      "metaTitle": "Bleach Characters - Soul Reapers, Arrancar, Quincy Profiles",
+      "metaDescription": "Explore complete Bleach character profiles covering identity, affiliation, history, relationships, powers, and key story developments.",
+      "categoryLabel": "CHARACTERS",
+      "whatIs": "Bleach Characters",
+      "whatIsDescription": "Comprehensive character profiles for the heroes, captains, allies, and antagonists of Bleach, covering identity, affiliation, history, relationships, and powers.",
+      "featured": "Featured Characters",
+      "all": "All Characters"
     },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
-      "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+    "zanpakuto": {
+      "title": "Bleach Zanpakuto",
+      "description": "Browse Zanpakuto by wielder, name, Shikai, and Bankai with activation commands and abilities.",
+      "metaTitle": "Bleach Zanpakuto List - Shikai and Bankai Guide",
+      "metaDescription": "Complete Bleach Zanpakuto guide with wielders, Shikai, Bankai, activation commands, abilities, and notable appearances.",
+      "categoryLabel": "ZANPAKUTO",
+      "whatIs": "Bleach Zanpakuto",
+      "whatIsDescription": "The signature swords of Soul Reapers in Bleach, each with its own name, spirit, Shikai, and Bankai forms explained in detail.",
+      "featured": "Featured Zanpakuto",
+      "all": "All Zanpakuto"
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
-      "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Items"
+    "arcs": {
+      "title": "Bleach Arcs",
+      "description": "Follow the complete Bleach story in chronological order with arc summaries and key events.",
+      "metaTitle": "Bleach Arcs in Order - Complete Story Timeline",
+      "metaDescription": "Trace the full Bleach storyline from the Substitute Soul Reaper Arc to the Thousand-Year Blood War with clear arc summaries.",
+      "categoryLabel": "STORY ARCS",
+      "whatIs": "Bleach Arcs",
+      "whatIsDescription": "A chronological timeline of every major Bleach story arc, summarizing key events, villains, battles, and character developments.",
+      "featured": "Featured Arcs",
+      "all": "All Arcs"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
-      "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Biomes"
+    "factions": {
+      "title": "Bleach Factions",
+      "description": "Learn about the Gotei 13, Espada, Visored, Quincy, Wandenreich, and other Bleach organizations.",
+      "metaTitle": "Bleach Factions - Gotei 13, Espada, Quincy Organizations",
+      "metaDescription": "Understand the goals, leaders, hierarchies, and members of every major Bleach faction and organization.",
+      "categoryLabel": "FACTIONS",
+      "whatIs": "Bleach Factions",
+      "whatIsDescription": "The organizations that drive Bleach's conflicts, including their purpose, hierarchy, members, symbols, and alliances.",
+      "featured": "Featured Factions",
+      "all": "All Factions"
     },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
-      "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
+    "abilities": {
+      "title": "Bleach Abilities",
+      "description": "Understand Kido, Hollowfication, Fullbring, Quincy techniques, Cero, and spiritual pressure.",
+      "metaTitle": "Bleach Abilities - Kido, Cero, Bankai Power Systems",
+      "metaDescription": "Master Bleach's power systems with clear explanations of Kido, Hollow powers, Quincy techniques, Fullbring, and Zanpakuto releases.",
+      "categoryLabel": "ABILITIES",
+      "whatIs": "Bleach Abilities",
+      "whatIsDescription": "The interconnected power systems of Bleach, from Soul Reaper spells to Hollow attacks and Quincy defenses, explained clearly.",
+      "featured": "Featured Abilities",
+      "all": "All Abilities"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
-      "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+    "battles": {
+      "title": "Bleach Battles",
+      "description": "Review major Bleach fights with participants, techniques, turning points, and outcomes.",
+      "metaTitle": "Bleach Battles - Iconic Fights and Analysis",
+      "metaDescription": "Relive the greatest Bleach battles with summaries of participants, key techniques, turning points, and story consequences.",
+      "categoryLabel": "BATTLES",
+      "whatIs": "Bleach Battles",
+      "whatIsDescription": "Detailed breakdowns of the decisive Bleach fights that shaped the Soul Society, Hueco Mundo, and the Quincy war.",
+      "featured": "Featured Battles",
+      "all": "All Battles"
+    },
+    "episodes": {
+      "title": "Bleach Episodes",
+      "description": "Browse Bleach anime episodes by arc, continuity, and recommended watch order.",
+      "metaTitle": "Bleach Episode Guide - Canon, Filler, Watch Order",
+      "metaDescription": "Navigate the Bleach anime with episode ranges, arc labels, filler identification, and a recommended viewing order.",
+      "categoryLabel": "EPISODES",
+      "whatIs": "Bleach Episodes",
+      "whatIsDescription": "A complete anime episode guide identifying canon, mixed, and filler episodes across every Bleach arc.",
+      "featured": "Featured Episodes",
+      "all": "All Episodes"
+    },
+    "manga": {
+      "title": "Bleach Manga",
+      "description": "Explore Bleach manga volumes and chapters in publication order with summaries.",
+      "metaTitle": "Bleach Manga - Volumes, Chapters, Anime Differences",
+      "metaDescription": "Follow the complete Bleach manga by Tite Kubo with volume and chapter guides, arc labels, and anime comparison notes.",
+      "categoryLabel": "MANGA",
+      "whatIs": "Bleach Manga",
+      "whatIsDescription": "The complete Bleach manga collection with volume ranges, chapter lists, arc summaries, and manga versus anime comparisons.",
+      "featured": "Featured Manga",
+      "all": "All Manga"
     }
   }
 }
