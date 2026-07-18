@@ -10,14 +10,7 @@
       "twitterDescription": "Explore Bleach characters, story arcs, Zanpakuto, Soul Reapers, Hollows, battles, and lore from Tite Kubo's legendary manga and anime series."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
