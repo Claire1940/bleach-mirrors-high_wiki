@@ -10,7 +10,15 @@
       "twitterDescription": "Explore Bleach characters, story arcs, Zanpakuto, Soul Reapers, Hollows, battles, and lore from Tite Kubo's legendary manga and anime series."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "characters": "Characters",
+    "tybw": "TYBW",
+    "lore": "Lore",
+    "games": "Games",
+    "codes": "Codes",
+    "movies": "Movies"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -616,93 +624,145 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
+    "guide": {
+      "title": "Bleach Guides",
+      "description": "Complete Bleach watch guides including the 2026 filler list, episode counts, story arcs, watch order, and where to stream every season of the anime.",
+      "metaTitle": "Bleach Guides - Filler List, Watch Order & Story Arcs",
+      "metaDescription": "Master the Bleach anime with complete guides: 2026 filler list, recommended watch order, episode counts, story arc breakdowns, and streaming platforms.",
+      "categoryLabel": "GUIDE",
+      "whatIs": "Bleach Watch Guides",
+      "whatIsDescription": "Step-by-step companion guides for navigating the entire Bleach anime, from the original 366-episode run to the Thousand-Year Blood War sequel, with curated filler lists, watch orders, and arc breakdowns.",
+      "why": "Why Use These Guides",
+      "whySteps": {
+        "step1Title": "Skip the Fillers",
+        "step1Description": "Identify every filler episode across the original run so you follow only the canon story without losing momentum.",
+        "step2Title": "Watch in the Right Order",
+        "step2Description": "Follow the recommended viewing sequence that places the movies, OVAs, and the Thousand-Year Blood War sequel in their correct storyline position.",
+        "step3Title": "Understand Every Arc",
+        "step3Description": "Get concise breakdowns of each story arc, from the Soul Society rescue mission to Hueco Mundo and the final blood war."
+      },
+      "featured": "Featured Guides",
+      "all": "All Guides"
+    },
     "characters": {
       "title": "Bleach Characters",
-      "description": "Detailed profiles for Ichigo Kurosaki, Soul Reapers, Arrancar, Quincy, and other major Bleach characters.",
+      "description": "Detailed profiles for Ichigo Kurosaki, Soul Reapers, Arrancar, Quincy, and other major Bleach characters across every arc.",
       "metaTitle": "Bleach Characters - Soul Reapers, Arrancar, Quincy Profiles",
-      "metaDescription": "Explore complete Bleach character profiles covering identity, affiliation, history, relationships, powers, and key story developments.",
+      "metaDescription": "Explore complete Bleach character profiles covering identity, affiliation, history, relationships, powers, Zanpakuto, and key story developments.",
       "categoryLabel": "CHARACTERS",
       "whatIs": "Bleach Characters",
       "whatIsDescription": "Comprehensive character profiles for the heroes, captains, allies, and antagonists of Bleach, covering identity, affiliation, history, relationships, and powers.",
+      "why": "Why Read Character Profiles",
+      "whySteps": {
+        "step1Title": "Track Powers & Growth",
+        "step1Description": "Follow each character's Zanpakuto releases, Bankai achievements, and power evolution across every arc.",
+        "step2Title": "Understand Motivations",
+        "step2Description": "Decode the backstories and rivalries that drive key players like Aizen, Yoruichi, and the Gotei 13 captains.",
+        "step3Title": "Map Every Faction",
+        "step3Description": "See how Soul Reapers, Visored, Arrancar, and Quincy connect through each character's alliances and rivalries."
+      },
       "featured": "Featured Characters",
       "all": "All Characters"
     },
-    "zanpakuto": {
-      "title": "Bleach Zanpakuto",
-      "description": "Browse Zanpakuto by wielder, name, Shikai, and Bankai with activation commands and abilities.",
-      "metaTitle": "Bleach Zanpakuto List - Shikai and Bankai Guide",
-      "metaDescription": "Complete Bleach Zanpakuto guide with wielders, Shikai, Bankai, activation commands, abilities, and notable appearances.",
-      "categoryLabel": "ZANPAKUTO",
-      "whatIs": "Bleach Zanpakuto",
-      "whatIsDescription": "The signature swords of Soul Reapers in Bleach, each with its own name, spirit, Shikai, and Bankai forms explained in detail.",
-      "featured": "Featured Zanpakuto",
-      "all": "All Zanpakuto"
+    "tybw": {
+      "title": "Bleach: Thousand-Year Blood War",
+      "description": "Everything about the Bleach Thousand-Year Blood War anime sequel, including part 4 The Calamity, release dates, trailers, and cour-by-cour breakdowns.",
+      "metaTitle": "Bleach Thousand-Year Blood War - TYBW Part 4 & The Calamity",
+      "metaDescription": "Complete coverage of Bleach Thousand-Year Blood War: part 4 The Calamity release date, trailers, episode guides, and a cour-by-cour breakdown of the final arc.",
+      "categoryLabel": "TYBW",
+      "whatIs": "Thousand-Year Blood War",
+      "whatIsDescription": "The celebrated anime sequel adapting the final arc of Tite Kubo's manga, pitting the Soul Reapers against Yhwach and the Quincy Wandenreich in a war for all three worlds.",
+      "why": "Why Follow TYBW",
+      "whySteps": {
+        "step1Title": "Track Part 4 Releases",
+        "step1Description": "Stay current with The Calamity cour schedule, premiere dates, and final trailer reveals as they land.",
+        "step2Title": "Catch New Bankai Reveals",
+        "step2Description": "Discover the Bankai and lore additions that Studio Pierrot and Tite Kubo crafted exclusively for the anime adaptation.",
+        "step3Title": "Understand the Final War",
+        "step3Description": "Follow the Quincy invasion, the truth of the Soul King, and the climactic battles that close out the series."
+      },
+      "featured": "Featured TYBW Coverage",
+      "all": "All TYBW Coverage"
     },
-    "arcs": {
-      "title": "Bleach Arcs",
-      "description": "Follow the complete Bleach story in chronological order with arc summaries and key events.",
-      "metaTitle": "Bleach Arcs in Order - Complete Story Timeline",
-      "metaDescription": "Trace the full Bleach storyline from the Substitute Soul Reaper Arc to the Thousand-Year Blood War with clear arc summaries.",
-      "categoryLabel": "STORY ARCS",
-      "whatIs": "Bleach Arcs",
-      "whatIsDescription": "A chronological timeline of every major Bleach story arc, summarizing key events, villains, battles, and character developments.",
-      "featured": "Featured Arcs",
-      "all": "All Arcs"
+    "lore": {
+      "title": "Bleach Lore",
+      "description": "Deep dives into Bleach lore including the Soul King, Zanpakuto and Bankai, Quincy, Arrancar, Espada, Hollows, and the Hell arc.",
+      "metaTitle": "Bleach Lore - Soul King, Bankai, Quincy, Arrancar & Hollows",
+      "metaDescription": "Explore Bleach lore and worldbuilding: the Soul King, Zanpakuto and Bankai mechanics, Quincy vs Arrancar factions, Espada ranks, Hollow types, and the Hell arc.",
+      "categoryLabel": "LORE",
+      "whatIs": "Bleach Lore & Worldbuilding",
+      "whatIsDescription": "In-depth explorations of the mythology behind Bleach, from spiritual anatomy and Zanpakuto mechanics to the factions, ranks, and cosmic structures that shape the universe.",
+      "why": "Why Dive Into the Lore",
+      "whySteps": {
+        "step1Title": "Master the Power Systems",
+        "step1Description": "Understand Zanpakuto releases, Bankai, Resurreccion, and Vollstandig, and how each faction's power scales against the others.",
+        "step2Title": "Decode Factions & Ranks",
+        "step2Description": "Learn the structure of the Gotei 13, the Espada numbering, the Sternritter letters, and the Visored identity.",
+        "step3Title": "Uncover Cosmic Secrets",
+        "step3Description": "Reveal the truth of the Soul King, the balance of the three worlds, and the forbidden Hell dimension."
+      },
+      "featured": "Featured Lore",
+      "all": "All Lore"
     },
-    "factions": {
-      "title": "Bleach Factions",
-      "description": "Learn about the Gotei 13, Espada, Visored, Quincy, Wandenreich, and other Bleach organizations.",
-      "metaTitle": "Bleach Factions - Gotei 13, Espada, Quincy Organizations",
-      "metaDescription": "Understand the goals, leaders, hierarchies, and members of every major Bleach faction and organization.",
-      "categoryLabel": "FACTIONS",
-      "whatIs": "Bleach Factions",
-      "whatIsDescription": "The organizations that drive Bleach's conflicts, including their purpose, hierarchy, members, symbols, and alliances.",
-      "featured": "Featured Factions",
-      "all": "All Factions"
+    "games": {
+      "title": "Bleach Games",
+      "description": "Guides for every Bleach game including Bleach Mirrors High, Soul Resonance, Brave Souls, and Rebirth of Souls, with tier lists and release info.",
+      "metaTitle": "Bleach Games - Bleach Mirrors High, Soul Resonance & More",
+      "metaDescription": "Complete Bleach game guides: Bleach Mirrors High release and beta info, Soul Resonance tier lists, Brave Souls tips, and Rebirth of Souls walkthroughs.",
+      "categoryLabel": "GAMES",
+      "whatIs": "Bleach Video Games",
+      "whatIsDescription": "Comprehensive coverage of Bleach across gaming platforms, from the upcoming Bleach Mirrors High to mobile hits like Brave Souls and Soul Resonance and console fighters like Rebirth of Souls.",
+      "why": "Why Use These Game Guides",
+      "whySteps": {
+        "step1Title": "Track Bleach Mirrors High",
+        "step1Description": "Follow release dates, beta phases, platforms, and gameplay features for the new high-fidelity Bleach action title.",
+        "step2Title": "Build the Best Teams",
+        "step2Description": "Use Soul Resonance tier lists and Brave Souls unit guides to assemble top-tier rosters for every mode.",
+        "step3Title": "Master Combat Systems",
+        "step3Description": "Learn the mechanics behind Rebirth of Souls and the other fighters to win every battle and mission."
+      },
+      "featured": "Featured Games",
+      "all": "All Games"
     },
-    "abilities": {
-      "title": "Bleach Abilities",
-      "description": "Understand Kido, Hollowfication, Fullbring, Quincy techniques, Cero, and spiritual pressure.",
-      "metaTitle": "Bleach Abilities - Kido, Cero, Bankai Power Systems",
-      "metaDescription": "Master Bleach's power systems with clear explanations of Kido, Hollow powers, Quincy techniques, Fullbring, and Zanpakuto releases.",
-      "categoryLabel": "ABILITIES",
-      "whatIs": "Bleach Abilities",
-      "whatIsDescription": "The interconnected power systems of Bleach, from Soul Reaper spells to Hollow attacks and Quincy defenses, explained clearly.",
-      "featured": "Featured Abilities",
-      "all": "All Abilities"
+    "codes": {
+      "title": "Bleach Game Codes",
+      "description": "Active redeem codes for Bleach mobile games like Soul Resonance, with free summons, premium currency, and rewards updated regularly.",
+      "metaTitle": "Bleach Game Codes - Soul Resonance Active Codes & Rewards",
+      "metaDescription": "Redeem the latest working Bleach game codes for Soul Resonance and other titles to claim free summons, premium currency, and exclusive rewards.",
+      "categoryLabel": "CODES",
+      "whatIs": "Bleach Game Codes",
+      "whatIsDescription": "Curated, up-to-date redeem codes for Bleach mobile games that grant free premium currency, summons, upgrade materials, and limited-time rewards.",
+      "why": "Why Redeem These Codes",
+      "whySteps": {
+        "step1Title": "Get Free Currency",
+        "step1Description": "Claim premium gems and coins without spending so you can summon more characters and progress faster.",
+        "step2Title": "Claim Exclusive Rewards",
+        "step2Description": "Unlock limited-time units, skins, and upgrade materials that are only available through active codes.",
+        "step3Title": "Stay Updated",
+        "step3Description": "Bookmark this page for newly released codes and expired-code removals as each game patch drops."
+      },
+      "featured": "Featured Codes",
+      "all": "All Codes"
     },
-    "battles": {
-      "title": "Bleach Battles",
-      "description": "Review major Bleach fights with participants, techniques, turning points, and outcomes.",
-      "metaTitle": "Bleach Battles - Iconic Fights and Analysis",
-      "metaDescription": "Relive the greatest Bleach battles with summaries of participants, key techniques, turning points, and story consequences.",
-      "categoryLabel": "BATTLES",
-      "whatIs": "Bleach Battles",
-      "whatIsDescription": "Detailed breakdowns of the decisive Bleach fights that shaped the Soul Society, Hueco Mundo, and the Quincy war.",
-      "featured": "Featured Battles",
-      "all": "All Battles"
-    },
-    "episodes": {
-      "title": "Bleach Episodes",
-      "description": "Browse Bleach anime episodes by arc, continuity, and recommended watch order.",
-      "metaTitle": "Bleach Episode Guide - Canon, Filler, Watch Order",
-      "metaDescription": "Navigate the Bleach anime with episode ranges, arc labels, filler identification, and a recommended viewing order.",
-      "categoryLabel": "EPISODES",
-      "whatIs": "Bleach Episodes",
-      "whatIsDescription": "A complete anime episode guide identifying canon, mixed, and filler episodes across every Bleach arc.",
-      "featured": "Featured Episodes",
-      "all": "All Episodes"
-    },
-    "manga": {
-      "title": "Bleach Manga",
-      "description": "Explore Bleach manga volumes and chapters in publication order with summaries.",
-      "metaTitle": "Bleach Manga - Volumes, Chapters, Anime Differences",
-      "metaDescription": "Follow the complete Bleach manga by Tite Kubo with volume and chapter guides, arc labels, and anime comparison notes.",
-      "categoryLabel": "MANGA",
-      "whatIs": "Bleach Manga",
-      "whatIsDescription": "The complete Bleach manga collection with volume ranges, chapter lists, arc summaries, and manga versus anime comparisons.",
-      "featured": "Featured Manga",
-      "all": "All Manga"
+    "movies": {
+      "title": "Bleach Movies",
+      "description": "Complete guide to Bleach movies including the 2026 new film, the live-action adaptations, and classic anime films like Memories of Nobody.",
+      "metaTitle": "Bleach Movies - 2026 Film, Live Action & Anime Movie Guide",
+      "metaDescription": "Every Bleach movie covered: the upcoming 2026 film, the live-action adaptations, and classic anime films like Memories of Nobody, with plot, canon status, and where to watch.",
+      "categoryLabel": "MOVIES",
+      "whatIs": "Bleach Movies",
+      "whatIsDescription": "A complete library covering every Bleach film, from the upcoming 2026 theatrical release to the live-action adaptations and the classic anime movie catalog.",
+      "why": "Why Explore the Movies",
+      "whySteps": {
+        "step1Title": "Track the 2026 Film",
+        "step1Description": "Follow release dates, trailers, cast, and canon placement for the newest Bleach theatrical movie.",
+        "step2Title": "Judge Canon Status",
+        "step2Description": "Learn which anime films and the live-action adaptations fit the main storyline and which stand as side stories.",
+        "step3Title": "Discover the Classics",
+        "step3Description": "Revisit fan-favorite films like Memories of Nobody with plot summaries and details on where to stream them."
+      },
+      "featured": "Featured Movies",
+      "all": "All Movies"
     }
   }
 }

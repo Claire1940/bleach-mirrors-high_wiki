@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "guide": "Guia",
+    "characters": "Personagens",
+    "tybw": "TYBW",
+    "lore": "Lore",
+    "games": "Jogos",
+    "codes": "Códigos",
+    "movies": "Filmes"
+  }
+}

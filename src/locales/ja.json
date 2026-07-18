@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "guide": "ガイド",
+    "characters": "キャラクター",
+    "tybw": "TYBW",
+    "lore": "世界観",
+    "games": "ゲーム",
+    "codes": "コード",
+    "movies": "映画"
+  }
+}

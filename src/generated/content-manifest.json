@@ -1,529 +1,165 @@
 {
-  "de": {
-    "biomes": [
-      {
-        "slug": "lucid-blocks-tiamana-leyline",
-        "file": "lucid-blocks-tiamana-leyline"
-      }
-    ],
-    "building": [
-      {
-        "slug": "lucid-blocks-qualia",
-        "file": "lucid-blocks-qualia"
-      }
-    ],
-    "crafting": [
-      {
-        "slug": "lucid-blocks-apotheosis",
-        "file": "lucid-blocks-apotheosis"
-      },
-      {
-        "slug": "lucid-blocks-crafting-recipes",
-        "file": "lucid-blocks-crafting-recipes"
-      }
-    ],
-    "guides": [
-      {
-        "slug": "lucid-blocks-guide",
-        "file": "lucid-blocks-guide"
-      }
-    ],
-    "items": [
-      {
-        "slug": "lucid-blocks-bee-glider",
-        "file": "lucid-blocks-bee-glider"
-      },
-      {
-        "slug": "lucid-blocks-chest",
-        "file": "lucid-blocks-chest"
-      },
-      {
-        "slug": "lucid-blocks-faith-wand",
-        "file": "lucid-blocks-faith-wand"
-      },
-      {
-        "slug": "lucid-blocks-osmium",
-        "file": "lucid-blocks-osmium"
-      }
-    ],
-    "support": [
-      {
-        "slug": "lucid-blocks-android",
-        "file": "lucid-blocks-android"
-      },
-      {
-        "slug": "lucid-blocks-full-screen",
-        "file": "lucid-blocks-full-screen"
-      },
-      {
-        "slug": "lucid-blocks-multiplayer",
-        "file": "lucid-blocks-multiplayer"
-      },
-      {
-        "slug": "lucid-blocks-steam-deck",
-        "file": "lucid-blocks-steam-deck"
-      }
-    ]
-  },
   "en": {
-    "biomes": [
+    "characters": [
       {
-        "slug": "lucid-blocks-tiamana-leyline",
-        "file": "lucid-blocks-tiamana-leyline"
+        "slug": "Bleach-aizen",
+        "file": "Bleach-aizen"
+      },
+      {
+        "slug": "Bleach-captains",
+        "file": "Bleach-captains"
+      },
+      {
+        "slug": "Bleach-chad",
+        "file": "Bleach-chad"
+      },
+      {
+        "slug": "Bleach-characters",
+        "file": "Bleach-characters"
+      },
+      {
+        "slug": "Bleach-ichigo",
+        "file": "Bleach-ichigo"
+      },
+      {
+        "slug": "Bleach-nel",
+        "file": "Bleach-nel"
+      },
+      {
+        "slug": "Bleach-shinji",
+        "file": "Bleach-shinji"
+      },
+      {
+        "slug": "Bleach-yamamoto",
+        "file": "Bleach-yamamoto"
+      },
+      {
+        "slug": "Bleach-yoruichi",
+        "file": "Bleach-yoruichi"
       }
     ],
-    "building": [
+    "codes": [
       {
-        "slug": "lucid-blocks-qualia",
-        "file": "lucid-blocks-qualia"
+        "slug": "Bleach-soul-resonance-codes",
+        "file": "Bleach-soul-resonance-codes"
       }
     ],
-    "crafting": [
+    "games": [
       {
-        "slug": "lucid-blocks-apotheosis",
-        "file": "lucid-blocks-apotheosis"
+        "slug": "Bleach-brave-souls",
+        "file": "Bleach-brave-souls"
       },
       {
-        "slug": "lucid-blocks-crafting-recipes",
-        "file": "lucid-blocks-crafting-recipes"
+        "slug": "Bleach-mirrors-high-beta",
+        "file": "Bleach-mirrors-high-beta"
+      },
+      {
+        "slug": "Bleach-mirrors-high-release-date",
+        "file": "Bleach-mirrors-high-release-date"
+      },
+      {
+        "slug": "Bleach-mirrors-high",
+        "file": "Bleach-mirrors-high"
+      },
+      {
+        "slug": "Bleach-rebirth-of-souls",
+        "file": "Bleach-rebirth-of-souls"
+      },
+      {
+        "slug": "Bleach-soul-resonance-tier-list",
+        "file": "Bleach-soul-resonance-tier-list"
+      },
+      {
+        "slug": "Bleach-soul-resonance",
+        "file": "Bleach-soul-resonance"
       }
     ],
-    "guides": [
+    "guide": [
       {
-        "slug": "lucid-blocks-guide",
-        "file": "lucid-blocks-guide"
+        "slug": "Bleach-arcs",
+        "file": "Bleach-arcs"
+      },
+      {
+        "slug": "Bleach-filler-list",
+        "file": "Bleach-filler-list"
+      },
+      {
+        "slug": "Bleach-how-many-episodes",
+        "file": "Bleach-how-many-episodes"
+      },
+      {
+        "slug": "Bleach-watch-order",
+        "file": "Bleach-watch-order"
+      },
+      {
+        "slug": "Bleach-where-to-watch",
+        "file": "Bleach-where-to-watch"
       }
     ],
-    "items": [
+    "lore": [
       {
-        "slug": "lucid-blocks-bee-glider",
-        "file": "lucid-blocks-bee-glider"
+        "slug": "Bleach-arrancar",
+        "file": "Bleach-arrancar"
       },
       {
-        "slug": "lucid-blocks-chest",
-        "file": "lucid-blocks-chest"
+        "slug": "Bleach-bankai",
+        "file": "Bleach-bankai"
       },
       {
-        "slug": "lucid-blocks-faith-wand",
-        "file": "lucid-blocks-faith-wand"
+        "slug": "Bleach-espada",
+        "file": "Bleach-espada"
       },
       {
-        "slug": "lucid-blocks-osmium",
-        "file": "lucid-blocks-osmium"
+        "slug": "Bleach-hell-arc",
+        "file": "Bleach-hell-arc"
+      },
+      {
+        "slug": "Bleach-hollow",
+        "file": "Bleach-hollow"
+      },
+      {
+        "slug": "Bleach-quincy",
+        "file": "Bleach-quincy"
+      },
+      {
+        "slug": "Bleach-soul-king",
+        "file": "Bleach-soul-king"
       }
     ],
-    "support": [
+    "movies": [
       {
-        "slug": "lucid-blocks-android",
-        "file": "lucid-blocks-android"
+        "slug": "Bleach-live-action",
+        "file": "Bleach-live-action"
       },
       {
-        "slug": "lucid-blocks-full-screen",
-        "file": "lucid-blocks-full-screen"
+        "slug": "Bleach-memories-of-nobody",
+        "file": "Bleach-memories-of-nobody"
       },
       {
-        "slug": "lucid-blocks-multiplayer",
-        "file": "lucid-blocks-multiplayer"
+        "slug": "Bleach-movie-2026",
+        "file": "Bleach-movie-2026"
       },
       {
-        "slug": "lucid-blocks-steam-deck",
-        "file": "lucid-blocks-steam-deck"
-      }
-    ]
-  },
-  "es": {
-    "biomes": [
-      {
-        "slug": "lucid-blocks-tiamana-leyline",
-        "file": "lucid-blocks-tiamana-leyline"
+        "slug": "Bleach-movie",
+        "file": "Bleach-movie"
       }
     ],
-    "building": [
+    "tybw": [
       {
-        "slug": "lucid-blocks-qualia",
-        "file": "lucid-blocks-qualia"
-      }
-    ],
-    "crafting": [
-      {
-        "slug": "lucid-blocks-apotheosis",
-        "file": "lucid-blocks-apotheosis"
+        "slug": "Bleach-the-calamity",
+        "file": "Bleach-the-calamity"
       },
       {
-        "slug": "lucid-blocks-crafting-recipes",
-        "file": "lucid-blocks-crafting-recipes"
-      }
-    ],
-    "guides": [
-      {
-        "slug": "lucid-blocks-guide",
-        "file": "lucid-blocks-guide"
-      }
-    ],
-    "items": [
-      {
-        "slug": "lucid-blocks-bee-glider",
-        "file": "lucid-blocks-bee-glider"
+        "slug": "Bleach-thousand-year-blood-war-season-4",
+        "file": "Bleach-thousand-year-blood-war-season-4"
       },
       {
-        "slug": "lucid-blocks-chest",
-        "file": "lucid-blocks-chest"
+        "slug": "Bleach-thousand-year-blood-war",
+        "file": "Bleach-thousand-year-blood-war"
       },
       {
-        "slug": "lucid-blocks-faith-wand",
-        "file": "lucid-blocks-faith-wand"
-      },
-      {
-        "slug": "lucid-blocks-osmium",
-        "file": "lucid-blocks-osmium"
-      }
-    ],
-    "support": [
-      {
-        "slug": "lucid-blocks-android",
-        "file": "lucid-blocks-android"
-      },
-      {
-        "slug": "lucid-blocks-full-screen",
-        "file": "lucid-blocks-full-screen"
-      },
-      {
-        "slug": "lucid-blocks-multiplayer",
-        "file": "lucid-blocks-multiplayer"
-      },
-      {
-        "slug": "lucid-blocks-steam-deck",
-        "file": "lucid-blocks-steam-deck"
-      }
-    ]
-  },
-  "fr": {
-    "biomes": [
-      {
-        "slug": "lucid-blocks-tiamana-leyline",
-        "file": "lucid-blocks-tiamana-leyline"
-      }
-    ],
-    "building": [
-      {
-        "slug": "lucid-blocks-qualia",
-        "file": "lucid-blocks-qualia"
-      }
-    ],
-    "crafting": [
-      {
-        "slug": "lucid-blocks-apotheosis",
-        "file": "lucid-blocks-apotheosis"
-      },
-      {
-        "slug": "lucid-blocks-crafting-recipes",
-        "file": "lucid-blocks-crafting-recipes"
-      }
-    ],
-    "guides": [
-      {
-        "slug": "lucid-blocks-guide",
-        "file": "lucid-blocks-guide"
-      }
-    ],
-    "items": [
-      {
-        "slug": "lucid-blocks-bee-glider",
-        "file": "lucid-blocks-bee-glider"
-      },
-      {
-        "slug": "lucid-blocks-chest",
-        "file": "lucid-blocks-chest"
-      },
-      {
-        "slug": "lucid-blocks-faith-wand",
-        "file": "lucid-blocks-faith-wand"
-      },
-      {
-        "slug": "lucid-blocks-osmium",
-        "file": "lucid-blocks-osmium"
-      }
-    ],
-    "support": [
-      {
-        "slug": "lucid-blocks-android",
-        "file": "lucid-blocks-android"
-      },
-      {
-        "slug": "lucid-blocks-full-screen",
-        "file": "lucid-blocks-full-screen"
-      },
-      {
-        "slug": "lucid-blocks-multiplayer",
-        "file": "lucid-blocks-multiplayer"
-      },
-      {
-        "slug": "lucid-blocks-steam-deck",
-        "file": "lucid-blocks-steam-deck"
-      }
-    ]
-  },
-  "ja": {
-    "biomes": [
-      {
-        "slug": "lucid-blocks-tiamana-leyline",
-        "file": "lucid-blocks-tiamana-leyline"
-      }
-    ],
-    "building": [
-      {
-        "slug": "lucid-blocks-qualia",
-        "file": "lucid-blocks-qualia"
-      }
-    ],
-    "crafting": [
-      {
-        "slug": "lucid-blocks-apotheosis",
-        "file": "lucid-blocks-apotheosis"
-      },
-      {
-        "slug": "lucid-blocks-crafting-recipes",
-        "file": "lucid-blocks-crafting-recipes"
-      }
-    ],
-    "guides": [
-      {
-        "slug": "lucid-blocks-guide",
-        "file": "lucid-blocks-guide"
-      }
-    ],
-    "items": [
-      {
-        "slug": "lucid-blocks-bee-glider",
-        "file": "lucid-blocks-bee-glider"
-      },
-      {
-        "slug": "lucid-blocks-chest",
-        "file": "lucid-blocks-chest"
-      },
-      {
-        "slug": "lucid-blocks-faith-wand",
-        "file": "lucid-blocks-faith-wand"
-      },
-      {
-        "slug": "lucid-blocks-osmium",
-        "file": "lucid-blocks-osmium"
-      }
-    ],
-    "support": [
-      {
-        "slug": "lucid-blocks-android",
-        "file": "lucid-blocks-android"
-      },
-      {
-        "slug": "lucid-blocks-full-screen",
-        "file": "lucid-blocks-full-screen"
-      },
-      {
-        "slug": "lucid-blocks-multiplayer",
-        "file": "lucid-blocks-multiplayer"
-      },
-      {
-        "slug": "lucid-blocks-steam-deck",
-        "file": "lucid-blocks-steam-deck"
-      }
-    ]
-  },
-  "ko": {
-    "biomes": [
-      {
-        "slug": "lucid-blocks-tiamana-leyline",
-        "file": "lucid-blocks-tiamana-leyline"
-      }
-    ],
-    "building": [
-      {
-        "slug": "lucid-blocks-qualia",
-        "file": "lucid-blocks-qualia"
-      }
-    ],
-    "crafting": [
-      {
-        "slug": "lucid-blocks-apotheosis",
-        "file": "lucid-blocks-apotheosis"
-      },
-      {
-        "slug": "lucid-blocks-crafting-recipes",
-        "file": "lucid-blocks-crafting-recipes"
-      }
-    ],
-    "guides": [
-      {
-        "slug": "lucid-blocks-guide",
-        "file": "lucid-blocks-guide"
-      }
-    ],
-    "items": [
-      {
-        "slug": "lucid-blocks-bee-glider",
-        "file": "lucid-blocks-bee-glider"
-      },
-      {
-        "slug": "lucid-blocks-chest",
-        "file": "lucid-blocks-chest"
-      },
-      {
-        "slug": "lucid-blocks-faith-wand",
-        "file": "lucid-blocks-faith-wand"
-      },
-      {
-        "slug": "lucid-blocks-osmium",
-        "file": "lucid-blocks-osmium"
-      }
-    ],
-    "support": [
-      {
-        "slug": "lucid-blocks-android",
-        "file": "lucid-blocks-android"
-      },
-      {
-        "slug": "lucid-blocks-full-screen",
-        "file": "lucid-blocks-full-screen"
-      },
-      {
-        "slug": "lucid-blocks-multiplayer",
-        "file": "lucid-blocks-multiplayer"
-      },
-      {
-        "slug": "lucid-blocks-steam-deck",
-        "file": "lucid-blocks-steam-deck"
-      }
-    ]
-  },
-  "pt": {
-    "biomes": [
-      {
-        "slug": "lucid-blocks-tiamana-leyline",
-        "file": "lucid-blocks-tiamana-leyline"
-      }
-    ],
-    "building": [
-      {
-        "slug": "lucid-blocks-qualia",
-        "file": "lucid-blocks-qualia"
-      }
-    ],
-    "crafting": [
-      {
-        "slug": "lucid-blocks-apotheosis",
-        "file": "lucid-blocks-apotheosis"
-      },
-      {
-        "slug": "lucid-blocks-crafting-recipes",
-        "file": "lucid-blocks-crafting-recipes"
-      }
-    ],
-    "guides": [
-      {
-        "slug": "lucid-blocks-guide",
-        "file": "lucid-blocks-guide"
-      }
-    ],
-    "items": [
-      {
-        "slug": "lucid-blocks-bee-glider",
-        "file": "lucid-blocks-bee-glider"
-      },
-      {
-        "slug": "lucid-blocks-chest",
-        "file": "lucid-blocks-chest"
-      },
-      {
-        "slug": "lucid-blocks-faith-wand",
-        "file": "lucid-blocks-faith-wand"
-      },
-      {
-        "slug": "lucid-blocks-osmium",
-        "file": "lucid-blocks-osmium"
-      }
-    ],
-    "support": [
-      {
-        "slug": "lucid-blocks-android",
-        "file": "lucid-blocks-android"
-      },
-      {
-        "slug": "lucid-blocks-full-screen",
-        "file": "lucid-blocks-full-screen"
-      },
-      {
-        "slug": "lucid-blocks-multiplayer",
-        "file": "lucid-blocks-multiplayer"
-      },
-      {
-        "slug": "lucid-blocks-steam-deck",
-        "file": "lucid-blocks-steam-deck"
-      }
-    ]
-  },
-  "ru": {
-    "biomes": [
-      {
-        "slug": "lucid-blocks-tiamana-leyline",
-        "file": "lucid-blocks-tiamana-leyline"
-      }
-    ],
-    "building": [
-      {
-        "slug": "lucid-blocks-qualia",
-        "file": "lucid-blocks-qualia"
-      }
-    ],
-    "crafting": [
-      {
-        "slug": "lucid-blocks-apotheosis",
-        "file": "lucid-blocks-apotheosis"
-      },
-      {
-        "slug": "lucid-blocks-crafting-recipes",
-        "file": "lucid-blocks-crafting-recipes"
-      }
-    ],
-    "guides": [
-      {
-        "slug": "lucid-blocks-guide",
-        "file": "lucid-blocks-guide"
-      }
-    ],
-    "items": [
-      {
-        "slug": "lucid-blocks-bee-glider",
-        "file": "lucid-blocks-bee-glider"
-      },
-      {
-        "slug": "lucid-blocks-chest",
-        "file": "lucid-blocks-chest"
-      },
-      {
-        "slug": "lucid-blocks-faith-wand",
-        "file": "lucid-blocks-faith-wand"
-      },
-      {
-        "slug": "lucid-blocks-osmium",
-        "file": "lucid-blocks-osmium"
-      }
-    ],
-    "support": [
-      {
-        "slug": "lucid-blocks-android",
-        "file": "lucid-blocks-android"
-      },
-      {
-        "slug": "lucid-blocks-full-screen",
-        "file": "lucid-blocks-full-screen"
-      },
-      {
-        "slug": "lucid-blocks-multiplayer",
-        "file": "lucid-blocks-multiplayer"
-      },
-      {
-        "slug": "lucid-blocks-steam-deck",
-        "file": "lucid-blocks-steam-deck"
+        "slug": "Bleach-tybw-part-4-release-date",
+        "file": "Bleach-tybw-part-4-release-date"
       }
     ]
   }
