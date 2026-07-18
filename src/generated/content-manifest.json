@@ -162,5 +162,497 @@
         "file": "Bleach-tybw-part-4-release-date"
       }
     ]
+  },
+  "es": {
+    "characters": [
+      {
+        "slug": "Bleach-aizen",
+        "file": "Bleach-aizen"
+      },
+      {
+        "slug": "Bleach-captains",
+        "file": "Bleach-captains"
+      },
+      {
+        "slug": "Bleach-chad",
+        "file": "Bleach-chad"
+      },
+      {
+        "slug": "Bleach-characters",
+        "file": "Bleach-characters"
+      },
+      {
+        "slug": "Bleach-ichigo",
+        "file": "Bleach-ichigo"
+      },
+      {
+        "slug": "Bleach-nel",
+        "file": "Bleach-nel"
+      },
+      {
+        "slug": "Bleach-shinji",
+        "file": "Bleach-shinji"
+      },
+      {
+        "slug": "Bleach-yamamoto",
+        "file": "Bleach-yamamoto"
+      },
+      {
+        "slug": "Bleach-yoruichi",
+        "file": "Bleach-yoruichi"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "Bleach-soul-resonance-codes",
+        "file": "Bleach-soul-resonance-codes"
+      }
+    ],
+    "games": [
+      {
+        "slug": "Bleach-brave-souls",
+        "file": "Bleach-brave-souls"
+      },
+      {
+        "slug": "Bleach-mirrors-high-beta",
+        "file": "Bleach-mirrors-high-beta"
+      },
+      {
+        "slug": "Bleach-mirrors-high-release-date",
+        "file": "Bleach-mirrors-high-release-date"
+      },
+      {
+        "slug": "Bleach-mirrors-high",
+        "file": "Bleach-mirrors-high"
+      },
+      {
+        "slug": "Bleach-rebirth-of-souls",
+        "file": "Bleach-rebirth-of-souls"
+      },
+      {
+        "slug": "Bleach-soul-resonance-tier-list",
+        "file": "Bleach-soul-resonance-tier-list"
+      },
+      {
+        "slug": "Bleach-soul-resonance",
+        "file": "Bleach-soul-resonance"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Bleach-arcs",
+        "file": "Bleach-arcs"
+      },
+      {
+        "slug": "Bleach-filler-list",
+        "file": "Bleach-filler-list"
+      },
+      {
+        "slug": "Bleach-how-many-episodes",
+        "file": "Bleach-how-many-episodes"
+      },
+      {
+        "slug": "Bleach-watch-order",
+        "file": "Bleach-watch-order"
+      },
+      {
+        "slug": "Bleach-where-to-watch",
+        "file": "Bleach-where-to-watch"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "Bleach-arrancar",
+        "file": "Bleach-arrancar"
+      },
+      {
+        "slug": "Bleach-bankai",
+        "file": "Bleach-bankai"
+      },
+      {
+        "slug": "Bleach-espada",
+        "file": "Bleach-espada"
+      },
+      {
+        "slug": "Bleach-hell-arc",
+        "file": "Bleach-hell-arc"
+      },
+      {
+        "slug": "Bleach-hollow",
+        "file": "Bleach-hollow"
+      },
+      {
+        "slug": "Bleach-quincy",
+        "file": "Bleach-quincy"
+      },
+      {
+        "slug": "Bleach-soul-king",
+        "file": "Bleach-soul-king"
+      }
+    ],
+    "movies": [
+      {
+        "slug": "Bleach-live-action",
+        "file": "Bleach-live-action"
+      },
+      {
+        "slug": "Bleach-memories-of-nobody",
+        "file": "Bleach-memories-of-nobody"
+      },
+      {
+        "slug": "Bleach-movie-2026",
+        "file": "Bleach-movie-2026"
+      },
+      {
+        "slug": "Bleach-movie",
+        "file": "Bleach-movie"
+      }
+    ],
+    "tybw": [
+      {
+        "slug": "Bleach-the-calamity",
+        "file": "Bleach-the-calamity"
+      },
+      {
+        "slug": "Bleach-thousand-year-blood-war-season-4",
+        "file": "Bleach-thousand-year-blood-war-season-4"
+      },
+      {
+        "slug": "Bleach-thousand-year-blood-war",
+        "file": "Bleach-thousand-year-blood-war"
+      },
+      {
+        "slug": "Bleach-tybw-part-4-release-date",
+        "file": "Bleach-tybw-part-4-release-date"
+      }
+    ]
+  },
+  "ja": {
+    "characters": [
+      {
+        "slug": "Bleach-aizen",
+        "file": "Bleach-aizen"
+      },
+      {
+        "slug": "Bleach-captains",
+        "file": "Bleach-captains"
+      },
+      {
+        "slug": "Bleach-chad",
+        "file": "Bleach-chad"
+      },
+      {
+        "slug": "Bleach-characters",
+        "file": "Bleach-characters"
+      },
+      {
+        "slug": "Bleach-ichigo",
+        "file": "Bleach-ichigo"
+      },
+      {
+        "slug": "Bleach-nel",
+        "file": "Bleach-nel"
+      },
+      {
+        "slug": "Bleach-shinji",
+        "file": "Bleach-shinji"
+      },
+      {
+        "slug": "Bleach-yamamoto",
+        "file": "Bleach-yamamoto"
+      },
+      {
+        "slug": "Bleach-yoruichi",
+        "file": "Bleach-yoruichi"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "Bleach-soul-resonance-codes",
+        "file": "Bleach-soul-resonance-codes"
+      }
+    ],
+    "games": [
+      {
+        "slug": "Bleach-brave-souls",
+        "file": "Bleach-brave-souls"
+      },
+      {
+        "slug": "Bleach-mirrors-high-beta",
+        "file": "Bleach-mirrors-high-beta"
+      },
+      {
+        "slug": "Bleach-mirrors-high-release-date",
+        "file": "Bleach-mirrors-high-release-date"
+      },
+      {
+        "slug": "Bleach-mirrors-high",
+        "file": "Bleach-mirrors-high"
+      },
+      {
+        "slug": "Bleach-rebirth-of-souls",
+        "file": "Bleach-rebirth-of-souls"
+      },
+      {
+        "slug": "Bleach-soul-resonance-tier-list",
+        "file": "Bleach-soul-resonance-tier-list"
+      },
+      {
+        "slug": "Bleach-soul-resonance",
+        "file": "Bleach-soul-resonance"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Bleach-arcs",
+        "file": "Bleach-arcs"
+      },
+      {
+        "slug": "Bleach-filler-list",
+        "file": "Bleach-filler-list"
+      },
+      {
+        "slug": "Bleach-how-many-episodes",
+        "file": "Bleach-how-many-episodes"
+      },
+      {
+        "slug": "Bleach-watch-order",
+        "file": "Bleach-watch-order"
+      },
+      {
+        "slug": "Bleach-where-to-watch",
+        "file": "Bleach-where-to-watch"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "Bleach-arrancar",
+        "file": "Bleach-arrancar"
+      },
+      {
+        "slug": "Bleach-bankai",
+        "file": "Bleach-bankai"
+      },
+      {
+        "slug": "Bleach-espada",
+        "file": "Bleach-espada"
+      },
+      {
+        "slug": "Bleach-hell-arc",
+        "file": "Bleach-hell-arc"
+      },
+      {
+        "slug": "Bleach-hollow",
+        "file": "Bleach-hollow"
+      },
+      {
+        "slug": "Bleach-quincy",
+        "file": "Bleach-quincy"
+      },
+      {
+        "slug": "Bleach-soul-king",
+        "file": "Bleach-soul-king"
+      }
+    ],
+    "movies": [
+      {
+        "slug": "Bleach-live-action",
+        "file": "Bleach-live-action"
+      },
+      {
+        "slug": "Bleach-memories-of-nobody",
+        "file": "Bleach-memories-of-nobody"
+      },
+      {
+        "slug": "Bleach-movie-2026",
+        "file": "Bleach-movie-2026"
+      },
+      {
+        "slug": "Bleach-movie",
+        "file": "Bleach-movie"
+      }
+    ],
+    "tybw": [
+      {
+        "slug": "Bleach-the-calamity",
+        "file": "Bleach-the-calamity"
+      },
+      {
+        "slug": "Bleach-thousand-year-blood-war-season-4",
+        "file": "Bleach-thousand-year-blood-war-season-4"
+      },
+      {
+        "slug": "Bleach-thousand-year-blood-war",
+        "file": "Bleach-thousand-year-blood-war"
+      },
+      {
+        "slug": "Bleach-tybw-part-4-release-date",
+        "file": "Bleach-tybw-part-4-release-date"
+      }
+    ]
+  },
+  "pt": {
+    "characters": [
+      {
+        "slug": "Bleach-aizen",
+        "file": "Bleach-aizen"
+      },
+      {
+        "slug": "Bleach-captains",
+        "file": "Bleach-captains"
+      },
+      {
+        "slug": "Bleach-chad",
+        "file": "Bleach-chad"
+      },
+      {
+        "slug": "Bleach-characters",
+        "file": "Bleach-characters"
+      },
+      {
+        "slug": "Bleach-ichigo",
+        "file": "Bleach-ichigo"
+      },
+      {
+        "slug": "Bleach-nel",
+        "file": "Bleach-nel"
+      },
+      {
+        "slug": "Bleach-shinji",
+        "file": "Bleach-shinji"
+      },
+      {
+        "slug": "Bleach-yamamoto",
+        "file": "Bleach-yamamoto"
+      },
+      {
+        "slug": "Bleach-yoruichi",
+        "file": "Bleach-yoruichi"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "Bleach-soul-resonance-codes",
+        "file": "Bleach-soul-resonance-codes"
+      }
+    ],
+    "games": [
+      {
+        "slug": "Bleach-brave-souls",
+        "file": "Bleach-brave-souls"
+      },
+      {
+        "slug": "Bleach-mirrors-high-beta",
+        "file": "Bleach-mirrors-high-beta"
+      },
+      {
+        "slug": "Bleach-mirrors-high-release-date",
+        "file": "Bleach-mirrors-high-release-date"
+      },
+      {
+        "slug": "Bleach-mirrors-high",
+        "file": "Bleach-mirrors-high"
+      },
+      {
+        "slug": "Bleach-rebirth-of-souls",
+        "file": "Bleach-rebirth-of-souls"
+      },
+      {
+        "slug": "Bleach-soul-resonance-tier-list",
+        "file": "Bleach-soul-resonance-tier-list"
+      },
+      {
+        "slug": "Bleach-soul-resonance",
+        "file": "Bleach-soul-resonance"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Bleach-arcs",
+        "file": "Bleach-arcs"
+      },
+      {
+        "slug": "Bleach-filler-list",
+        "file": "Bleach-filler-list"
+      },
+      {
+        "slug": "Bleach-how-many-episodes",
+        "file": "Bleach-how-many-episodes"
+      },
+      {
+        "slug": "Bleach-watch-order",
+        "file": "Bleach-watch-order"
+      },
+      {
+        "slug": "Bleach-where-to-watch",
+        "file": "Bleach-where-to-watch"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "Bleach-arrancar",
+        "file": "Bleach-arrancar"
+      },
+      {
+        "slug": "Bleach-bankai",
+        "file": "Bleach-bankai"
+      },
+      {
+        "slug": "Bleach-espada",
+        "file": "Bleach-espada"
+      },
+      {
+        "slug": "Bleach-hell-arc",
+        "file": "Bleach-hell-arc"
+      },
+      {
+        "slug": "Bleach-hollow",
+        "file": "Bleach-hollow"
+      },
+      {
+        "slug": "Bleach-quincy",
+        "file": "Bleach-quincy"
+      },
+      {
+        "slug": "Bleach-soul-king",
+        "file": "Bleach-soul-king"
+      }
+    ],
+    "movies": [
+      {
+        "slug": "Bleach-live-action",
+        "file": "Bleach-live-action"
+      },
+      {
+        "slug": "Bleach-memories-of-nobody",
+        "file": "Bleach-memories-of-nobody"
+      },
+      {
+        "slug": "Bleach-movie-2026",
+        "file": "Bleach-movie-2026"
+      },
+      {
+        "slug": "Bleach-movie",
+        "file": "Bleach-movie"
+      }
+    ],
+    "tybw": [
+      {
+        "slug": "Bleach-the-calamity",
+        "file": "Bleach-the-calamity"
+      },
+      {
+        "slug": "Bleach-thousand-year-blood-war-season-4",
+        "file": "Bleach-thousand-year-blood-war-season-4"
+      },
+      {
+        "slug": "Bleach-thousand-year-blood-war",
+        "file": "Bleach-thousand-year-blood-war"
+      },
+      {
+        "slug": "Bleach-tybw-part-4-release-date",
+        "file": "Bleach-tybw-part-4-release-date"
+      }
+    ]
   }
 }

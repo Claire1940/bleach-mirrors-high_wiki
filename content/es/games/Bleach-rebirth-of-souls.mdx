@@ -1,0 +1,193 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, Zap, BookOpen, Settings } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Bleach: Rebirth of Souls: Guía de Sistemas de Combate e Historia",
+  description: "Domina Bleach: Rebirth of Souls con nuestra guía sobre mecánicas de combate, progresión del modo historia y estrategias específicas de personajes para 2026.",
+  category: "Games",
+  image: "https://placehold.co/800x400/1a1a1a/fff?text=Combat+and+Story+Guide",
+  date: "2026-07-18",
+  lastModified: "2026-07-18",
+  author: "Equipo de la Wiki de Bleach",
+  keywords: "Bleach Rebirth of Souls, combate, guía de historia, mecánicas de lucha"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Bleach Rebirth of Souls** presenta un sistema de combate único centrado en **reservas de Konpaku** (almas) en lugar de las tradicionales barras de salud.
+- El **espaciado y el castigo de fallos (whiff punish)** son más críticos que presionar botones rápidamente en este juego de lucha táctica en arena.
+- El **Modo Historia** abarca más de 25 horas y cubre más de 300 episodios de anime, pero las **Historias Secretas** ofrecen el mejor trasfondo (lore) nuevo.
+- Utiliza el **Modo de Entrenamiento**, considerado uno de los más robustos en el género de juegos de anime para 2026.
+- Las mecánicas de **Sublimación de Alma (Soul Sublimation)** y Despertar pueden cambiar el rumbo de la batalla al alterar el potencial para arrebatar reservas.
+</Callout>
+
+<Section icon={Swords} title="Mecánicas de Combate Principales y Juego Táctico">
+
+Bleach: Rebirth of Souls se distingue de los juegos de lucha en arena tradicionales al priorizar el movimiento deliberado y la gestión de recursos por sobre la velocidad caótica. El juego utiliza un sofisticado sistema de múltiples medidores y "Konpaku" (reservas de almas) que dictan el flujo de cada encuentro. A diferencia de otros títulos donde el agotamiento de la salud conduce a una derrota inmediata, aquí los jugadores deben romper estratégicamente la defensa espiritual de su oponente para reclamar reservas.
+
+**Puntos Destacados del Video:**
+- **Sistema de Lucha Único**: Se centra en el espaciado y el castigo de fallos (whiff punish) en lugar de la agresión aleatoria.
+- **Excelencia en el Modo Entrenamiento**: Cuenta con un entorno de entrenamiento robusto, al estilo de los juegos de lucha tradicionales, para dominar las técnicas.
+- **Realidades del Netcode**: Discusión sobre el netcode basado en retraso (delay-based) y las diferencias de sincronización entre el modo offline y online.
+- **Diversidad de Personajes**: Cada miembro del plantel tiene mecánicas, medidores y planes de juego distintos.
+
+<YouTubeEmbed videoId="XkHgY_1VW20" title="Bleach: Rebirth of Souls - Análisis del Combate" />
+
+Los recién llegados suelen describir el ritmo del combate como "rígido" o "lento", pero esta es una decisión de diseño para recompensar a los jugadores que entienden el juego neutral. Cada personaje, desde Ichigo Kurosaki hasta Kenpachi Zaraki, opera con un conjunto específico de datos de frames (frame data) que hace que la guardia y el paso rápido (flash step) sean habilidades esenciales.
+
+| Mecánica | Función | Importancia Estratégica |
+| :--- | :--- | :--- |
+| **Reservas de Konpaku** | Recurso de vida principal | Alta - Determina la duración de la partida |
+| **Espíritu de Lucha** | Medidor que se llena al recibir daño | Crítica - Potencia los Despertares |
+| **Sublimación de Alma** | Estado mejorado tras el Despertar | Muy Alta - Puede arrebatar múltiples reservas |
+| **Paso Rápido (Flash Step)** | Mecánica de esquiva a alta velocidad | Esencial - Se usa para el castigo de fallos |
+| **Ruptura de Guardia** | Ataques pesados para eludir el bloqueo | Media - Restablece el juego neutral |
+
+<Callout type="tip" title="Consejo Pro de Espaciado">
+En Bleach: Rebirth of Souls, el "castigo de fallos" (whiff punishing) es tu herramienta más fuerte. Espera a que tu oponente se comprometa con un ataque espiritual pesado, realiza un paso rápido fuera de su alcance e inmediatamente contraataca mientras está en sus fotogramas de recuperación.
+</Callout>
+
+</Section>
+
+<Section icon={Zap} title="Arquetipos de Personajes y Gestión de Recursos">
+
+El plantel de Bleach: Rebirth of Souls está construido en torno a rasgos individuales de los personajes que obligan a los jugadores a gestionar diferentes tipos de energía. Aunque las rutas de combos pueden parecer restringidas en comparación con los juegos de lucha en 2D, la expresión del jugador se manifiesta en cómo gastas tus recursos y controlas el escenario.
+
+<CardGrid cols={3}>
+  <Card title="Tipo Poder (ej., Kenpachi)">
+    - **Alta presión sobre la guardia**
+    - Daño masivo por golpe
+    - Se apoya en la armadura y los intercambios de golpes
+  </Card>
+  <Card title="Tipo Velocidad (ej., Soi Fon)">
+    - **Pasos rápidos veloces**
+    - Series de combos de múltiples golpes
+    - Destaca en tácticas de golpear y huir
+  </Card>
+  <Card title="Tipo Técnica (ej., Uryu)">
+    - **Control de recursos a distancia**
+    - Control de zonas (zoning) y colocación de trampas
+    - Requiere una gran precisión
+  </Card>
+</CardGrid>
+
+Gestionar tus medidores es un acto de equilibrio. Si gastas toda tu presión espiritual en especiales ofensivos, es posible que te encuentres incapaz de usar ráfagas defensivas cuando el oponente entre en Sublimación de Alma.
+
+| Recurso | Método de Recuperación | Mejor Uso |
+| :--- | :--- | :--- |
+| **Presión Espiritual** | Atacar / Cargar | Movimientos especiales y extensiones de combos |
+| **Medidor de Reishi** | Regeneración pasiva | Maniobras defensivas y escapes |
+| **Medidor de Despertar** | Recibir daño / Perder reservas | Activar el Bankai o la Forma Final |
+
+<Callout type="warning" title="Muerte Estratégica">
+A veces, perder una reserva de forma temprana es óptimo. Morir acumula una cantidad significativa de Espíritu de Lucha, lo que te permite entrar en un estado despertado antes y, potencialmente, arrebatar dos o tres reservas del oponente en una sola ventana de remontada.
+</Callout>
+
+</Section>
+
+<Section icon={BookOpen} title="Progresión del Modo Historia e Historias Secretas">
+
+La experiencia para un jugador en Bleach: Rebirth of Souls se divide en la campaña principal y las muy valoradas Historias Secretas. La campaña principal es un proyecto enorme para 2026, que tiene como objetivo ofrecer una recreación cinematográfica de los arcos clásicos de Bleach.
+
+<Steps>
+  <Step num="1" title="Campaña Principal (Episodios 1-300+)">
+    Sigue la narrativa principal desde el arco del Shinigami Sustituto hasta la invasión de los Arrancar. Concéntrate en aprender los conceptos básicos del combate contra Hollows.
+  </Step>
+  <Step num="2" title="Maestría en Combate contra Hollows">
+    El modo historia a menudo presenta combates no estándar contra Hollows. Estos enemigos tienen barras de armadura que deben romperse antes de que reciban daño real.
+  </Step>
+  <Step num="3" title="Desbloquear Historias Secretas">
+    Después de completar capítulos específicos, desbloquearás "Historias Secretas" de 30 minutos específicas de cada personaje, que proporcionan nuevo trasfondo y perspectivas únicas.
+  </Step>
+  <Step num="4" title="Objetivos Opcionales">
+    Vuelve a jugar las misiones para completar pruebas contrarreloj o requisitos específicos de remate para desbloquear talismanes y aspectos de personajes.
+  </Step>
+</Steps>
+
+Aunque el modo historia principal ha sido criticado por el ritmo de su animación, las Historias Secretas son de juego obligatorio para los fanáticos. Estos segmentos ofrecen diálogos y escenarios originales que expanden el universo de Bleach de formas que el anime nunca hizo.
+
+| Modo | Duración | Recompensa Principal |
+| :--- | :--- | :--- |
+| **Historia Principal** | Más de 25 horas | Desbloqueo de personajes / Aspectos básicos |
+| **Historias Secretas** | 30 min por personaje | Lore exclusivo / Cristales de Alma |
+| **Modo Misión** | Infinito (Supervivencia) | Talismanes / Mejoras de estadísticas |
+| **Entrenamiento** | N/D | Mejora de habilidades / Prueba de técnicas |
+
+<Callout type="info" title="Nota sobre la Animación">
+El modo historia utiliza una mezcla de cinemáticas en 3D y fotogramas dibujados a mano. Aunque la animación en 3D puede parecer inconsistente, el arte dibujado a mano es excepcionalmente estilizado y se mantiene fiel a la estética original de Tite Kubo.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Misiones, Talismanes y Personalización de Personajes">
+
+Para los jugadores que buscan un desafío fuera del juego competitivo en línea, el Modo Misión ofrece una experiencia de estilo supervivencia donde puedes mejorar a tus personajes usando el equipamiento que encuentres a lo largo del juego. Este modo es la forma principal de interactuar con los elementos ligeros de RPG del título.
+
+**Características del Modo Misión:**
+- **Escaleras de Supervivencia**: Derrota a enemigos consecutivos mientras conservas tu salud y tu Espíritu de Lucha.
+- **Sistema de Equipamiento**: Utiliza Talismanes y Cristales de Alma para modificar las estadísticas de los personajes, como la velocidad de ataque o la defensa.
+- **Subida de Nivel**: Mejora tu equipamiento en la tienda usando la moneda obtenida en la historia y en las partidas en línea.
+
+<Checklist
+  id="mission-prep"
+  title="Lista de Verificación del Modo Misión:"
+  items={[
+    "Equipa al menos dos Cristales de Alma defensivos para escaleras largas",
+    "Sube de nivel tu Talismán principal al Rango 5 antes de intentar misiones de rango S",
+    "Usa personajes con alta regeneración de salud como Unohana para sobrevivir",
+    "Completa todos los objetivos opcionales en las primeras 10 misiones para obtener moneda de bonificación"
+  ]}
+/>
+
+<Callout type="success" title="Estrategia Meta">
+Personajes como Unohana o Kenpachi sobresalen en el Modo Misión porque pueden mantener un alto Espíritu de Lucha a lo largo de múltiples combates, lo que hace que la estrategia de "speedrun de Sublimación de Alma" sea muy efectiva para farmear recursos.
+</Callout>
+
+</Section>
+
+<Section icon={Settings} title="Juego Competitivo y Características en Línea">
+
+El panorama en línea de Bleach: Rebirth of Souls ha visto varias actualizaciones desde su lanzamiento. Aunque cuenta con partidas clasificatorias y casuales, comprender los matices del netcode es vital para ganar de manera constante.
+
+| Característica | Estado (2026) | Descripción |
+| :--- | :--- | :--- |
+| **Partidas Clasificatorias** | Disponible | Progresión basada en puntos con recompensas de temporada |
+| **Salas (Lobbies)** | Límite de 2 jugadores | Salas privadas para práctica 1v1 |
+| **Netcode** | Basado en retraso (Delay-Based) | Requiere una conexión estable; la sincronización difiere del modo offline |
+| **Modo Espectador** | No disponible | Actualmente limitado a interacciones directas 1v1 |
+
+Un obstáculo importante para los jugadores competitivos es la brecha entre el juego "En línea vs. Fuera de línea". Ciertos movimientos que son castigables fuera de línea pueden volverse "seguros" o incluso "ventajosos al bloquear" (plus on block) en línea debido al retraso, creando un meta diferente para el juego clasificatorio.
+
+<Callout type="warning" title="Lógica de las Clasificatorias">
+A partir de las últimas actualizaciones de 2026, el sistema clasificatorio no penaliza la pérdida de puntos con tanta severidad como los juegos de lucha tradicionales. Esto lo convierte más en un sistema de "acumular horas para llegar a la cima" que en un entorno estricto de calificación de habilidades.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Preguntas Frecuentes de Bleach: Rebirth of Souls">
+
+<FAQ items={[
+  {
+    question: "¿Cómo desbloqueo nuevos personajes en Bleach: Rebirth of Souls?",
+    answer: "La mayoría de los personajes se desbloquean al progresar a través del Modo Historia de 25 horas. Algunas variantes específicas o personajes secundarios pueden requerir completar sus respectivas Historias Secretas."
+  },
+  {
+    question: "¿Hay alguna diferencia entre el combate fuera de línea y en línea?",
+    answer: "Sí. Debido al netcode basado en retraso, la sincronización de los pasos rápidos y ciertos combos es ligeramente diferente. Algunos movimientos que tienen brechas fuera de línea pueden convertirse en secuencias de presión garantizadas en línea."
+  },
+  {
+    question: "¿Cuál es la mejor manera de farmear Talismanes y Cristales de Alma?",
+    answer: "El Modo Misión (Supervivencia) es la forma más eficiente de farmear. Usar un personaje con alta sostenibilidad para superar las escaleras rápidamente otorgará la mayor cantidad de materiales de mejora."
+  },
+  {
+    question: "¿Puedo omitir las cinemáticas durante el combate?",
+    answer: "Desafortunadamente, las cinemáticas de arrebatar reservas y de Despertar no se pueden omitir actualmente para mantener el estilo cinematográfico del juego, aunque esto podría cambiar en futuros parches."
+  }
+]} />
+
+</Section>
