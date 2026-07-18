@@ -5,13 +5,13 @@ import { routing } from '@/i18n/routing'
 export const dynamic = 'force-static'
 
 export async function GET() {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
-  const siteName = process.env.NEXT_PUBLIC_SITE_NAME || 'Lucid Blocks Wiki'
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://bleach-mirrors-high.wiki'
+  const siteName = process.env.NEXT_PUBLIC_SITE_NAME || 'BLEACH Mirrors High Wiki'
 
   const lines: string[] = []
   lines.push(`# ${siteName}`)
   lines.push('')
-  lines.push(`> ${siteName} is a comprehensive game wiki providing guides, tips, walkthroughs, and community resources.`)
+  lines.push(`> ${siteName} is a comprehensive anime and manga wiki providing character guides, arc breakdowns, Zanpakuto references, and community resources.`)
   lines.push('')
   lines.push(`Website: ${baseUrl}`)
   lines.push(`Languages: ${routing.locales.join(', ')}`)

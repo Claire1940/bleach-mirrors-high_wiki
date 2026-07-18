@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Block crawl of legal/auxiliary pages to preserve crawl budget
+Disallow: /privacy-policy
+Disallow: /terms-of-service
+Disallow: /copyright
+Disallow: /about
+
+Sitemap: https://bleach-mirrors-high.wiki/sitemap.xml

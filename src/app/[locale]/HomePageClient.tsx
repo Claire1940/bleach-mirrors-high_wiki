@@ -1314,21 +1314,21 @@ export default function HomePageClient({
                 </p>
                 <div className="flex flex-wrap gap-3">
                   <a
-                    href="https://discord.com/invite/lucidblocks"
+                    href="https://www.reddit.com/r/bleach/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors"
                   >
-                    <MessageCircle className="w-4 h-4" /> Discord{" "}
+                    <MessageCircle className="w-4 h-4" /> Reddit{" "}
                     <ExternalLink className="w-3 h-3" />
                   </a>
                   <a
-                    href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                    href="https://www.viz.com/bleach"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors"
                   >
-                    Steam Community <ExternalLink className="w-3 h-3" />
+                    VIZ Media <ExternalLink className="w-3 h-3" />
                   </a>
                 </div>
               </div>
@@ -1389,17 +1389,17 @@ export default function HomePageClient({
               <ul className="space-y-2 text-sm">
                 <li>
                   <a
-                    href="https://discord.com/invite/lucidblocks"
+                    href="https://www.reddit.com/r/bleach/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
-                    {t.footer.discord}
+                    {t.footer.reddit}
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://x.com/lucidblocks"
+                    href="https://x.com/BLEACHanimation"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -1409,22 +1409,22 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <a
-                    href="https://steamcommunity.com/app/3495730"
+                    href="https://bleach-anime.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
-                    {t.footer.steamCommunity}
+                    {t.footer.officialSite}
                   </a>
                 </li>
                 <li>
                   <a
-                    href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                    href="https://www.viz.com/bleach"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
-                    {t.footer.steamStore}
+                    {t.footer.vizMedia}
                   </a>
                 </li>
               </ul>

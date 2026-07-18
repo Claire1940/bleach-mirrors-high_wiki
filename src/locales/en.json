@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "BLEACH Mirrors High - Bleach Characters, Zanpakuto, Arcs & Lore",
+      "description": "Explore Bleach characters, story arcs, Zanpakuto, Soul Reapers, Hollows, battles, and lore from Tite Kubo's legendary manga and anime series.",
+      "keywords": "Bleach, Ichigo, Soul Reaper, Zanpakuto, characters, arcs, Hollows, anime, manga",
+      "ogTitle": "BLEACH Mirrors High - Bleach Characters, Zanpakuto, Arcs & Lore",
+      "ogDescription": "Explore Bleach characters, story arcs, Zanpakuto, Soul Reapers, Hollows, battles, and lore from Tite Kubo's legendary manga and anime series.",
+      "twitterTitle": "BLEACH Mirrors High - Bleach Characters, Zanpakuto, Arcs & Lore",
+      "twitterDescription": "Explore Bleach characters, story arcs, Zanpakuto, Soul Reapers, Hollows, battles, and lore from Tite Kubo's legendary manga and anime series."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Legendary Supernatural Shonen Anime",
+    "title": "BLEACH Mirrors High Wiki",
+    "description": "Follow Ichigo Kurosaki as he becomes a Soul Reaper, masters his Zanpakuto, battles Hollows and protects the worlds of the living and the dead.",
+    "getFreeCodesCTA": "Read Guides",
+    "playOnSteamCTA": "Visit Official Site",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "74",
+        "label": "Manga Volumes"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "686",
+        "label": "Manga Chapters"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "366",
+        "label": "Original Anime Episodes"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "13",
+        "label": "Court Guard Squads"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Join the Bleach Community",
+    "description": "Dive into character guides, Zanpakuto lore, arc breakdowns, and battle analysis with fellow Bleach fans.",
+    "joinCommunity": "Join Reddit",
+    "joinGame": "Read on VIZ"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "BLEACH Mirrors High Wiki",
+    "description": "Your complete resource hub for Bleach characters, Zanpakuto, story arcs, Soul Reapers, Hollows, abilities, battles, episodes, and manga guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
+    "reddit": "Reddit",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "officialSite": "Official Anime Site",
+    "vizMedia": "VIZ Media",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 BLEACH Mirrors High Wiki. Not affiliated with Tite Kubo, Shueisha, Studio Pierrot, or VIZ Media.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
